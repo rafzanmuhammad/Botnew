@@ -1,0 +1,4993 @@
+{
+  "chats": {
+    "6283110364520@s.whatsapp.net": {
+      "id": "6283110364520@s.whatsapp.net",
+      "conversationTimestamp": 1663091581,
+      "unreadCount": 1,
+      "name": "anon.bot",
+      "pin": null
+    },
+    "6283809157951@s.whatsapp.net": {
+      "messages": [
+        {
+          "message": {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": false,
+              "id": "4311705C6BFCC9BA7086950B53EBC62A"
+            },
+            "message": {
+              "conversation": "P"
+            },
+            "messageTimestamp": "1663071043",
+            "status": "READ",
+            "ephemeralOutOfSync": false
+          }
+        }
+      ],
+      "participant": [],
+      "id": "6283809157951@s.whatsapp.net",
+      "unreadCount": 35,
+      "readOnly": false,
+      "ephemeralExpiration": 0,
+      "conversationTimestamp": 1663095067,
+      "notSpam": true,
+      "disappearingMode": {
+        "initiator": "CHANGED_IN_CHAT"
+      },
+      "unreadMentionCount": 0,
+      "tcToken": {
+        "type": "Buffer",
+        "data": [
+          1,
+          1,
+          14,
+          94,
+          45,
+          84,
+          88,
+          133,
+          46,
+          30,
+          252,
+          53,
+          96,
+          180,
+          49,
+          77,
+          157,
+          99,
+          197,
+          221,
+          252,
+          135,
+          120,
+          21,
+          137,
+          175,
+          207,
+          235,
+          118,
+          32,
+          93,
+          255,
+          140,
+          169,
+          123
+        ]
+      },
+      "tcTokenTimestamp": {
+        "low": 1663070129,
+        "high": 0,
+        "unsigned": true
+      },
+      "contactPrimaryIdentityKey": {
+        "type": "Buffer",
+        "data": [
+          62,
+          34,
+          178,
+          60,
+          168,
+          57,
+          107,
+          135,
+          85,
+          76,
+          151,
+          147,
+          241,
+          235,
+          109,
+          238,
+          150,
+          102,
+          176,
+          33,
+          147,
+          144,
+          245,
+          129,
+          205,
+          151,
+          64,
+          247,
+          59,
+          8,
+          58,
+          96
+        ]
+      },
+      "tcTokenSenderTimestamp": {
+        "low": 1662981148,
+        "high": 0,
+        "unsigned": true
+      },
+      "notify": "πt.",
+      "isContact": true,
+      "pin": null,
+      "presences": {
+        "6283809157951@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      }
+    },
+    "6283809157951-1630786583@g.us": {
+      "messages": [
+        {
+          "message": {
+            "key": {
+              "remoteJid": "6283809157951-1630786583@g.us",
+              "fromMe": true,
+              "id": "1067014678"
+            },
+            "messageTimestamp": "1662301963",
+            "messageStubType": "GROUP_PARTICIPANT_LEAVE",
+            "messageStubParameters": [
+              "6281573035313@s.whatsapp.net"
+            ]
+          },
+          "msgOrderId": "26"
+        }
+      ],
+      "participant": [],
+      "id": "6283809157951-1630786583@g.us",
+      "unreadCount": 0,
+      "readOnly": false,
+      "ephemeralExpiration": 0,
+      "conversationTimestamp": {
+        "low": 1661689785,
+        "high": 0,
+        "unsigned": true
+      },
+      "name": "© πt",
+      "pHash": "1:urg+kavy",
+      "notSpam": true,
+      "unreadMentionCount": 0,
+      "suspended": false,
+      "isContact": true
+    },
+    "62895368900456@s.whatsapp.net": {
+      "id": "62895368900456@s.whatsapp.net",
+      "conversationTimestamp": 1663093139
+    },
+    "6283127262379@s.whatsapp.net": {
+      "notify": "Sai Krittanai [กฤตนัย]",
+      "id": "6283127262379@s.whatsapp.net",
+      "isContact": true
+    },
+    "601161293396@s.whatsapp.net": {
+      "notify": "Luq",
+      "id": "601161293396@s.whatsapp.net",
+      "isContact": true
+    },
+    "6283807208112@s.whatsapp.net": {
+      "messages": [
+        {
+          "message": {
+            "key": {
+              "remoteJid": "6283807208112@s.whatsapp.net",
+              "fromMe": true,
+              "id": "46DB75FD2727258A7715042746E8D37C"
+            },
+            "messageTimestamp": "1662238105",
+            "messageStubType": "E2E_ENCRYPTED"
+          },
+          "msgOrderId": "5"
+        }
+      ],
+      "participant": [],
+      "id": "6283807208112@s.whatsapp.net"
+    }
+  },
+  "messages": {
+    "6283110364520@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "50E8EC9329AE7180D2D74C84EED48B22"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+            "initialSecurityNotificationSettingSync": {
+              "securityNotificationEnabled": false
+            }
+          }
+        },
+        "messageTimestamp": "1663091581",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "8CD2691E1DA2776A413129DF4706552F"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "APP_STATE_SYNC_KEY_SHARE",
+            "appStateSyncKeyShare": {
+              "keys": [
+                {
+                  "keyId": {
+                    "keyId": "AAAAAAW6"
+                  },
+                  "keyData": {
+                    "keyData": "pchaGufvyQ3+XJlrrmuF6zMGBo27sB1j2KxGanT7fz4=",
+                    "fingerprint": {
+                      "rawId": 901788873,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1663091556683"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAAW4"
+                  },
+                  "keyData": {
+                    "keyData": "Dy7vftqIZBPgaeY46QtUQxvzEgCv+5Hv8ZNUA/m61rA=",
+                    "fingerprint": {
+                      "rawId": 901788868,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAAW5"
+                  },
+                  "keyData": {
+                    "keyData": "YYOzn4y64Qv18j+/18XVCHakkkVHuHW83Cma99KWqjo=",
+                    "fingerprint": {
+                      "rawId": 901788870,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1663069969059"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "messageTimestamp": "1663091581",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "2F9A18CAB14C1A0C9CDE4D87706AD9AB"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "de+KcELm06hAjJymtUwMuTmN9Ly/5kKEpwArW59zxQM=",
+              "fileLength": "6782",
+              "mediaKey": "OBnUZcehPfslS1yWHjPwa4A6qXsznaY1zlX1L69tDIc=",
+              "fileEncSha256": "EjzbcVzT2DSymNW16XjGSA4o8F8wmDcP5JjN8M3QBLI=",
+              "directPath": "/v/t62.31111-24/40163582_801265171028541_3366628152641373274_n.enc?ccb=11-4&oh=01_AVz14D6bShDvGVAHTLc8Ivxrrn4WWGeVhqvbjyHinc76UA&oe=6346189B",
+              "syncType": "INITIAL_BOOTSTRAP"
+            }
+          }
+        },
+        "messageTimestamp": "1663091582",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "2A17A5ADF2DAEBCE2F3F76569C9DB048"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Dkz0UDP7mcehngS0gGsvG5+AMt/EXgSRgfazdoKo/ME=",
+              "fileLength": "10",
+              "mediaKey": "4pM4321O7V7oEJMfyVAUWgAsacx458QJjr8ssrlJuKQ=",
+              "fileEncSha256": "QNkjFj2vsEe7IZklpqFrb3sUJVfJ32nq/XSOQ9VwR+I=",
+              "directPath": "/v/t62.31111-24/29185203_843659136791103_374953764793140675_n.enc?ccb=11-4&oh=01_AVwuHRcMayy4aeQZ83IAN3fBb5OZLaexbE2uPkX6kFmyXA&oe=63475D47",
+              "syncType": "INITIAL_STATUS_V3"
+            }
+          }
+        },
+        "messageTimestamp": "1663091582",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "74FD7C1610266BEB9AD3926C3AC6DABB"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "GLG4DVB/F6Qh5RpCCD+cekfc+NyUMkp9cdA11hqMoRg=",
+              "fileLength": "121",
+              "mediaKey": "riJciDtImfsxQVBFtJHmJaGktKdXHYmlDoDHxVCfSYU=",
+              "fileEncSha256": "Y9vqpFnKoxkjgUpW3FeEShPQ8ernxsoL4SIdSIpMNT8=",
+              "directPath": "/v/t62.31111-24/30680239_3348481648811709_3367070602231127159_n.enc?ccb=11-4&oh=01_AVwfOojQjH2TubBdd6Q-qu9x_pJhuUjstFbejZAk0SDkzA&oe=6344E782",
+              "syncType": "PUSH_NAME",
+              "chunkOrder": 1
+            }
+          }
+        },
+        "messageTimestamp": "1663091582",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "DAA984E6B84165C287CA6EC7FEF4D2E3"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Rjde3XkoR9xBL4UYUHxt118+x2k1PoSqTuSLCoDPe64=",
+              "fileLength": "81",
+              "mediaKey": "uS9NDDiqBCbyZV3FQjKJnrHmxK696HatTdz+pBSHT1o=",
+              "fileEncSha256": "2cavLdviWjp2anyIG1Hk6kQWsfkkqLDA0P/PPaNsMYA=",
+              "directPath": "/v/t62.31111-24/31998170_394769629494434_6321663691193686081_n.enc?ccb=11-4&oh=01_AVwEVJccyF19n82aSCwcKgKjtUUgdNTvKtUVkyvdN_giwA&oe=63473D3D"
+            }
+          }
+        },
+        "messageTimestamp": "1663091582",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "1F538C7B03D09BEC71F96DBEA3902286"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "NMqOqYFLc56oJkC1zqJ+ow/j5Lqq1o1gFh1I2EysRBw=",
+              "fileLength": "7246",
+              "mediaKey": "htGDkMCLWUNgpWCQQrCfmxBsBLEtr03X4d7ixH38gpk=",
+              "fileEncSha256": "gyPKt/hK+Qm5fAQfrT5LN+ThmSxbffodcyViQ/gkeWc=",
+              "directPath": "/v/t62.31111-24/30440627_621492489372032_3667461663436013084_n.enc?ccb=11-4&oh=01_AVzHEnccXlTqIJoGayWmlFTyWx5wYFY3xdJxdr3isgMZUQ&oe=63454F75",
+              "syncType": "RECENT",
+              "chunkOrder": 1,
+              "progress": 97
+            }
+          }
+        },
+        "messageTimestamp": "1663091583",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283110364520@s.whatsapp.net",
+          "fromMe": true,
+          "id": "4CB35028E9AC828E10B1036A579C4C37"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "A8gAeHtYIoprUjakiT1YllIEvuLRbuCjDkQPwVhEIQg=",
+              "fileLength": "14",
+              "mediaKey": "BkfcibCcd9aYM5n4M5QoH97J6RUSIFi5MVEki/2+hpE=",
+              "fileEncSha256": "WFEmN9tXMC+4Dkq/zUxPSwubI7xjhWWWLC43Kivq3RU=",
+              "directPath": "/v/t62.31111-24/56115321_835848604110393_4415273633526478704_n.enc?ccb=11-4&oh=01_AVzx0AqrBN5FCWRg8EZMXykrR8doqWI4Asu7AFGzYS_d0w&oe=6347B475",
+              "syncType": "RECENT",
+              "chunkOrder": 2,
+              "progress": 100
+            }
+          }
+        },
+        "messageTimestamp": "1663092323",
+        "status": "SERVER_ACK",
+        "pushName": "anon.bot"
+      }
+    ],
+    "6283809157951@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "53034EB1751609497502B733BA0401EF"
+        },
+        "messageTimestamp": "1662981147",
+        "messageStubType": "E2E_ENCRYPTED"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "CA439040B0FFED48EAF8B1DD330F5F99"
+        },
+        "message": {
+          "conversation": "P"
+        },
+        "messageTimestamp": "1662981147",
+        "status": "READ",
+        "messageC2STimestamp": "1662981148",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981149",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3C7C4A35DB4C48D3B6C9538CBB71B824"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1662981359",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981361",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5F728FC0D3AB0"
+        },
+        "message": {
+          "listMessage": {
+            "title": "Konbanwa!, +62 831-1036-4520",
+            "description": "Berikut ini adalah daftar menu Haruno Bot.",
+            "buttonText": "Click Here",
+            "listType": "SINGLE_SELECT",
+            "sections": [
+              {
+                "title": "Informasi Bot",
+                "rows": [
+                  {
+                    "title": "Pemilik Bot",
+                    "description": "Nomor Pemilik Bot (owner)",
+                    "rowId": ".creator"
+                  },
+                  {
+                    "title": "Syarat Ketentuan dan Peraturan",
+                    "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                    "rowId": ".rules"
+                  },
+                  {
+                    "title": "Group Official Harunobot",
+                    "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                    "rowId": ".harunoff"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 1 」",
+                "rows": [
+                  {
+                    "title": "Semua Perintah",
+                    "description": "Menu Semua Perintah",
+                    "rowId": ".? all"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 2 」",
+                "rows": [
+                  {
+                    "title": "Game",
+                    "description": "Menu untuk Game",
+                    "rowId": ".? game"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 3 」",
+                "rows": [
+                  {
+                    "title": "XP",
+                    "description": "Menu untuk XP",
+                    "rowId": ".? xp"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 4 」",
+                "rows": [
+                  {
+                    "title": "Sticker",
+                    "description": "Menu untuk Sticker",
+                    "rowId": ".? stiker"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 5 」",
+                "rows": [
+                  {
+                    "title": "Anime",
+                    "description": "Some anime, manga, doujinshi stuff...",
+                    "rowId": ".? anime"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 6 」",
+                "rows": [
+                  {
+                    "title": "Kerang Ajaib",
+                    "description": "Puja kerang ajaib...",
+                    "rowId": ".? kerangajaib"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 7 」",
+                "rows": [
+                  {
+                    "title": "Quotes",
+                    "description": "Menu untuk Quotes",
+                    "rowId": ".? quotes"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 8 」",
+                "rows": [
+                  {
+                    "title": "Admin",
+                    "description": "Menu untuk Admin",
+                    "rowId": ".? admin"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 9 」",
+                "rows": [
+                  {
+                    "title": "Grup",
+                    "description": "Menu untuk Group",
+                    "rowId": ".? group"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 10 」",
+                "rows": [
+                  {
+                    "title": "Premium",
+                    "description": "Menu untuk Premium Users",
+                    "rowId": ".? premium"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 11 」",
+                "rows": [
+                  {
+                    "title": "Internet",
+                    "description": "Menu untuk menjelajahi Internet...",
+                    "rowId": ".? internet"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 12 」",
+                "rows": [
+                  {
+                    "title": "Anonymous Chat",
+                    "description": "Menu untuk Anonymous Chat",
+                    "rowId": ".? anonymous"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 13 」",
+                "rows": [
+                  {
+                    "title": "Nulis & Logo",
+                    "description": "Menu untuk Nulis & Logo",
+                    "rowId": ".? nulis"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 14 」",
+                "rows": [
+                  {
+                    "title": "Downloader",
+                    "description": "Menu Downloader",
+                    "rowId": ".? downloader"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 15 」",
+                "rows": [
+                  {
+                    "title": "Tools",
+                    "description": "Menu untuk Tools",
+                    "rowId": ".? tools"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 16 」",
+                "rows": [
+                  {
+                    "title": "Fun",
+                    "description": "Menu Fun",
+                    "rowId": ".? fun"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 17 」",
+                "rows": [
+                  {
+                    "title": "Database",
+                    "description": "Menu untuk Database",
+                    "rowId": ".? database"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 18 」",
+                "rows": [
+                  {
+                    "title": "Vote & Absen",
+                    "description": "Menu untuk Vote & Absen",
+                    "rowId": ".? vote"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 19 」",
+                "rows": [
+                  {
+                    "title": "Islamic",
+                    "description": "Menu Islamic",
+                    "rowId": ".? islamic"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 20 」",
+                "rows": [
+                  {
+                    "title": "Pengubah Suara",
+                    "description": "Menu Pengubah Suara",
+                    "rowId": ".? audio"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 21 」",
+                "rows": [
+                  {
+                    "title": "Jadi Bot",
+                    "description": "Numpang",
+                    "rowId": ".? jadibot"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 22 」",
+                "rows": [
+                  {
+                    "title": "Info",
+                    "description": "Menu untuk Info",
+                    "rowId": ".? info"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 23 」",
+                "rows": [
+                  {
+                    "title": "Tanpa Kategori",
+                    "description": "Menu Tanpa Kategori",
+                    "rowId": ".? tanpakategori"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 24 」",
+                "rows": [
+                  {
+                    "title": "Owner Menu",
+                    "description": "Menu Khusus Owner",
+                    "rowId": ".? owner"
+                  }
+                ]
+              }
+            ],
+            "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```",
+            "contextInfo": {
+              "stanzaId": "3C7C4A35DB4C48D3B6C9538CBB71B824",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".menu"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1662981360",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981366",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "7C1304FB7FA6E7F8D9F24B2EE0371648"
+        },
+        "message": {
+          "conversation": ".sticker"
+        },
+        "messageTimestamp": "1662981371",
+        "status": "READ",
+        "messageC2STimestamp": "1662981372",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981376",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "1E15187403B266EF210F491DC6FC1E1F"
+        },
+        "message": {
+          "listResponseMessage": {
+            "title": "Semua Perintah",
+            "listType": "SINGLE_SELECT",
+            "singleSelectReply": {},
+            "contextInfo": {
+              "stanzaId": "BAE5F728FC0D3AB0",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "Konbanwa!, +62 831-1036-4520",
+                  "description": "Berikut ini adalah daftar menu Haruno Bot.",
+                  "buttonText": "Click Here",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "Informasi Bot",
+                      "rows": [
+                        {
+                          "title": "Pemilik Bot",
+                          "description": "Nomor Pemilik Bot (owner)",
+                          "rowId": ".creator"
+                        },
+                        {
+                          "title": "Syarat Ketentuan dan Peraturan",
+                          "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                          "rowId": ".rules"
+                        },
+                        {
+                          "title": "Group Official Harunobot",
+                          "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                          "rowId": ".harunoff"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 1 」",
+                      "rows": [
+                        {
+                          "title": "Semua Perintah",
+                          "description": "Menu Semua Perintah",
+                          "rowId": ".? all"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 2 」",
+                      "rows": [
+                        {
+                          "title": "Game",
+                          "description": "Menu untuk Game",
+                          "rowId": ".? game"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 3 」",
+                      "rows": [
+                        {
+                          "title": "XP",
+                          "description": "Menu untuk XP",
+                          "rowId": ".? xp"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 4 」",
+                      "rows": [
+                        {
+                          "title": "Sticker",
+                          "description": "Menu untuk Sticker",
+                          "rowId": ".? stiker"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 5 」",
+                      "rows": [
+                        {
+                          "title": "Anime",
+                          "description": "Some anime, manga, doujinshi stuff...",
+                          "rowId": ".? anime"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 6 」",
+                      "rows": [
+                        {
+                          "title": "Kerang Ajaib",
+                          "description": "Puja kerang ajaib...",
+                          "rowId": ".? kerangajaib"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 7 」",
+                      "rows": [
+                        {
+                          "title": "Quotes",
+                          "description": "Menu untuk Quotes",
+                          "rowId": ".? quotes"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 8 」",
+                      "rows": [
+                        {
+                          "title": "Admin",
+                          "description": "Menu untuk Admin",
+                          "rowId": ".? admin"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 9 」",
+                      "rows": [
+                        {
+                          "title": "Grup",
+                          "description": "Menu untuk Group",
+                          "rowId": ".? group"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 10 」",
+                      "rows": [
+                        {
+                          "title": "Premium",
+                          "description": "Menu untuk Premium Users",
+                          "rowId": ".? premium"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 11 」",
+                      "rows": [
+                        {
+                          "title": "Internet",
+                          "description": "Menu untuk menjelajahi Internet...",
+                          "rowId": ".? internet"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 12 」",
+                      "rows": [
+                        {
+                          "title": "Anonymous Chat",
+                          "description": "Menu untuk Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 13 」",
+                      "rows": [
+                        {
+                          "title": "Nulis & Logo",
+                          "description": "Menu untuk Nulis & Logo",
+                          "rowId": ".? nulis"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 14 」",
+                      "rows": [
+                        {
+                          "title": "Downloader",
+                          "description": "Menu Downloader",
+                          "rowId": ".? downloader"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 15 」",
+                      "rows": [
+                        {
+                          "title": "Tools",
+                          "description": "Menu untuk Tools",
+                          "rowId": ".? tools"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 16 」",
+                      "rows": [
+                        {
+                          "title": "Fun",
+                          "description": "Menu Fun",
+                          "rowId": ".? fun"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 17 」",
+                      "rows": [
+                        {
+                          "title": "Database",
+                          "description": "Menu untuk Database",
+                          "rowId": ".? database"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 18 」",
+                      "rows": [
+                        {
+                          "title": "Vote & Absen",
+                          "description": "Menu untuk Vote & Absen",
+                          "rowId": ".? vote"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 19 」",
+                      "rows": [
+                        {
+                          "title": "Islamic",
+                          "description": "Menu Islamic",
+                          "rowId": ".? islamic"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 20 」",
+                      "rows": [
+                        {
+                          "title": "Pengubah Suara",
+                          "description": "Menu Pengubah Suara",
+                          "rowId": ".? audio"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 21 」",
+                      "rows": [
+                        {
+                          "title": "Jadi Bot",
+                          "description": "Numpang",
+                          "rowId": ".? jadibot"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 22 」",
+                      "rows": [
+                        {
+                          "title": "Info",
+                          "description": "Menu untuk Info",
+                          "rowId": ".? info"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 23 」",
+                      "rows": [
+                        {
+                          "title": "Tanpa Kategori",
+                          "description": "Menu Tanpa Kategori",
+                          "rowId": ".? tanpakategori"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 24 」",
+                      "rows": [
+                        {
+                          "title": "Owner Menu",
+                          "description": "Menu Khusus Owner",
+                          "rowId": ".? owner"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```"
+                }
+              }
+            },
+            "description": "Menu Semua Perintah"
+          }
+        },
+        "messageTimestamp": "1662981385",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981394",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "145C8BBE533BFBCEB609719797002EC0"
+        },
+        "message": {
+          "conversation": ".s"
+        },
+        "messageTimestamp": "1662981388",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981394",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE53895F44004B4"
+        },
+        "message": {
+          "buttonsMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/Ao4263dP2O3D1iQOxwRvZPLU4Fx6W56Z0NNOUUg-PLXI.enc",
+              "mimetype": "image/jpeg",
+              "caption": "┌──「 *+62 831-1036-4520* 」\n├ Hai, *+62 831-1036-4520!*\n├ 18.16.25\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Utama 」\n├ .afk <alasan>\n├ .jadian\n├ .groupofficial\n├ .menu\n├ .help\n├ .?\n├ .rules\n└───\n\n┌──「 Game 」\n├ .caklontong\n├ .family100\n├ .math <mode>\n├ .siapakahaku\n├ .tebakgambar\n├ .tebakkata\n├ .tictactoe [custom room name]\n├ .ttt [custom room name]\n└───\n\n┌──「 Exp & Limit 」\n├ .buy<jumlah limit>\n├ .buy <jumlah limit>\n├ .buyall\n├ .daily\n├ .claim\n├ .daily\n├ .claim\n├ .leaderboard <jumlah user>\n├ .lb <jumlah user>\n├ .levelup\n└───\n\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───\n\n┌──「 Anime 」\n├ .neko\n├ .waifu\n└───\n\n┌──「 Kerang Ajaib 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n└───\n\n┌──「 Quotes 」\n├ .bucin\n├ .dare\n├ .truth\n└───\n\n┌──「 Admin (Dinonaktifkan) 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n└───\n\n┌──「 Grup 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n├ .enable <option>\n├ .disable <option>\n├ .infogrup\n├ .leavegc\n├ .leavegcall\n├ .leavegroup\n├ .linkgroup\n├ .pengumuman [teks]\n├ .announce [teks]\n├ .hidetag [teks]\n├ .grup <buka/tutup>\n├ .tagall\n└───\n\n┌──「 Premium 」\n└───\n\n┌──「 Internet 」\n├ .google <pencarian>\n├ .googlef <pencarian>\n├ .gimage <query>\n├ .image <query>\n├ .fetch <url>\n├ .get <url>\n├ .kbbi <teks>\n├ .lirik <Apa>\n├ .wikipedia <apa>\n├ .yts <pencarian>\n├ .ytsearch <pencarian>\n└───\n\n┌──「 Anonymous Chat 」\n├ .start\n├ .leave\n├ .next\n└───\n\n┌──「 MagerNulis & Logo 」\n├ .tahta <teks> (Limit)\n├ .nulis <teks>\n└───\n\n┌──「 Downloader 」\n├ .facebook\n├ .gitclone <url> (Limit)\n├ .ig <url>\n├ .igstalk <username>\n├ .mediafire <url> (Limit)\n├ .tiktok\n├ .zippyshare\n├ .pinterest\n├ .wallpaper <query>\n├ .wallpaper2 <query>\n├ .play\n├ .ytmp3 <url> (Limit)\n├ .yta <url> (Limit)\n├ .ytmp4 <url> <without message> (Limit)\n├ .ytv <url> <without message> (Limit)\n├ .yt <url> <without message> (Limit)\n└───\n\n┌──「 Tools 」\n├ .brainly\n├ .getprofile [@users]\n├ .gimage <query>\n├ .image <query>\n├ .join <chat.whatsapp.com>\n├ .nulis2 <teks>\n├ .ping\n├ .speed\n├ .del\n├ .delete\n├ .halah <teks>\n├ .hilih <teks>\n├ .huluh <teks>\n├ .heleh <teks>\n├ .holoh <teks>\n├ .qr <teks>\n├ .qrcode <teks>\n├ .readmore <teks>|<teks>\n├ .spoiler <teks>|<teks>\n├ .readviewonce\n├ .style <text>\n├ .translate <lang> <teks>\n├ .tts <lang> <teks>\n├ .upload\n└───\n\n┌──「 Fun 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ .jadian\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n├ .dare\n├ .truth\n└───\n\n┌──「 Database 」\n├ .delcmd <teks>\n├ .listcmd\n├ .unlockcmd\n├ .lockcmd\n├ .setcmd <teks>\n├ .addmsg <teks>\n├ .delmsg <teks>\n├ .listmsg\n└───\n\n┌──「 Voting 」\n└───\n\n┌──「 Absen 」\n└───\n\n┌──「 Al Qur'an 」\n├ .salat <daerah>\n└───\n\n┌──「 Pengubah Suara 」\n├ .tomp3 <reply>\n├ .tovn (reply)\n└───\n\n┌──「 Jadi Bot 」\n└───\n\n┌──「 Info 」\n├ .owner\n├ .creator\n├ .delete\n├ .donasi\n├ .groups\n├ .grouplist\n├ .ping\n├ .speed\n└───\n\n┌──「 Tanpa Kategori 」\n└───",
+              "fileSha256": "oPc0WrB6PA9RGwtx1pDVUvQyLAgyTCMQuzap7hFnS38=",
+              "fileLength": "567107",
+              "height": 879,
+              "width": 1000,
+              "mediaKey": "JvNhLqviQ2y8VzLJngZcYi9ulqzbXXCYZJJm63+Ydg4=",
+              "fileEncSha256": "RXsPBseuVrfU33Ko5aB7vtB5HwQBRBriYTVpaRKUz6M=",
+              "directPath": "/v/t62.7118-24/31258647_784046702935237_4119656108595346154_n.enc?ccb=11-4&oh=01_AVwyJsUkAcTrSaNqJizvE-P7gAA8-LfJdd5zc6274bN7mA&oe=63458CEC",
+              "mediaKeyTimestamp": "1662981392",
+              "contextInfo": {
+                "stanzaId": "1E15187403B266EF210F491DC6FC1E1F",
+                "participant": "6283110364520@s.whatsapp.net",
+                "quotedMessage": {
+                  "conversation": ".? all"
+                }
+              }
+            },
+            "contentText": "┌──「 *+62 831-1036-4520* 」\n├ Hai, *+62 831-1036-4520!*\n├ 18.16.25\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Utama 」\n├ .afk <alasan>\n├ .jadian\n├ .groupofficial\n├ .menu\n├ .help\n├ .?\n├ .rules\n└───\n\n┌──「 Game 」\n├ .caklontong\n├ .family100\n├ .math <mode>\n├ .siapakahaku\n├ .tebakgambar\n├ .tebakkata\n├ .tictactoe [custom room name]\n├ .ttt [custom room name]\n└───\n\n┌──「 Exp & Limit 」\n├ .buy<jumlah limit>\n├ .buy <jumlah limit>\n├ .buyall\n├ .daily\n├ .claim\n├ .daily\n├ .claim\n├ .leaderboard <jumlah user>\n├ .lb <jumlah user>\n├ .levelup\n└───\n\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───\n\n┌──「 Anime 」\n├ .neko\n├ .waifu\n└───\n\n┌──「 Kerang Ajaib 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n└───\n\n┌──「 Quotes 」\n├ .bucin\n├ .dare\n├ .truth\n└───\n\n┌──「 Admin (Dinonaktifkan) 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n└───\n\n┌──「 Grup 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n├ .enable <option>\n├ .disable <option>\n├ .infogrup\n├ .leavegc\n├ .leavegcall\n├ .leavegroup\n├ .linkgroup\n├ .pengumuman [teks]\n├ .announce [teks]\n├ .hidetag [teks]\n├ .grup <buka/tutup>\n├ .tagall\n└───\n\n┌──「 Premium 」\n└───\n\n┌──「 Internet 」\n├ .google <pencarian>\n├ .googlef <pencarian>\n├ .gimage <query>\n├ .image <query>\n├ .fetch <url>\n├ .get <url>\n├ .kbbi <teks>\n├ .lirik <Apa>\n├ .wikipedia <apa>\n├ .yts <pencarian>\n├ .ytsearch <pencarian>\n└───\n\n┌──「 Anonymous Chat 」\n├ .start\n├ .leave\n├ .next\n└───\n\n┌──「 MagerNulis & Logo 」\n├ .tahta <teks> (Limit)\n├ .nulis <teks>\n└───\n\n┌──「 Downloader 」\n├ .facebook\n├ .gitclone <url> (Limit)\n├ .ig <url>\n├ .igstalk <username>\n├ .mediafire <url> (Limit)\n├ .tiktok\n├ .zippyshare\n├ .pinterest\n├ .wallpaper <query>\n├ .wallpaper2 <query>\n├ .play\n├ .ytmp3 <url> (Limit)\n├ .yta <url> (Limit)\n├ .ytmp4 <url> <without message> (Limit)\n├ .ytv <url> <without message> (Limit)\n├ .yt <url> <without message> (Limit)\n└───\n\n┌──「 Tools 」\n├ .brainly\n├ .getprofile [@users]\n├ .gimage <query>\n├ .image <query>\n├ .join <chat.whatsapp.com>\n├ .nulis2 <teks>\n├ .ping\n├ .speed\n├ .del\n├ .delete\n├ .halah <teks>\n├ .hilih <teks>\n├ .huluh <teks>\n├ .heleh <teks>\n├ .holoh <teks>\n├ .qr <teks>\n├ .qrcode <teks>\n├ .readmore <teks>|<teks>\n├ .spoiler <teks>|<teks>\n├ .readviewonce\n├ .style <text>\n├ .translate <lang> <teks>\n├ .tts <lang> <teks>\n├ .upload\n└───\n\n┌──「 Fun 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ .jadian\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n├ .dare\n├ .truth\n└───\n\n┌──「 Database 」\n├ .delcmd <teks>\n├ .listcmd\n├ .unlockcmd\n├ .lockcmd\n├ .setcmd <teks>\n├ .addmsg <teks>\n├ .delmsg <teks>\n├ .listmsg\n└───\n\n┌──「 Voting 」\n└───\n\n┌──「 Absen 」\n└───\n\n┌──「 Al Qur'an 」\n├ .salat <daerah>\n└───\n\n┌──「 Pengubah Suara 」\n├ .tomp3 <reply>\n├ .tovn (reply)\n└───\n\n┌──「 Jadi Bot 」\n└───\n\n┌──「 Info 」\n├ .owner\n├ .creator\n├ .delete\n├ .donasi\n├ .groups\n├ .grouplist\n├ .ping\n├ .speed\n└───\n\n┌──「 Tanpa Kategori 」\n└───",
+            "footerText": "© Haruno",
+            "buttons": [
+              {
+                "buttonId": ".owner",
+                "buttonText": {
+                  "displayText": "Owner"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".donasi",
+                "buttonText": {
+                  "displayText": "Donasi"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".harunoff",
+                "buttonText": {
+                  "displayText": "Group Official"
+                },
+                "type": "RESPONSE"
+              }
+            ],
+            "headerType": "IMAGE"
+          }
+        },
+        "messageTimestamp": "1662981393",
+        "status": "READ",
+        "mediaData": {
+          "localPath": "Media/WhatsApp Images/Sent/IMG-20220912-WA0000.jpg"
+        },
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981401",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "EE7B6338500EC3A35923283A276FCDB1"
+        },
+        "message": {
+          "conversation": ".s"
+        },
+        "messageTimestamp": "1662981407",
+        "status": "READ",
+        "messageC2STimestamp": "1662981408",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981412",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "EFE804B8E5368274A7FD91801AAD0FF1"
+        },
+        "message": {
+          "conversation": "P"
+        },
+        "messageTimestamp": "1662981566",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1662981571",
+            "readTimestamp": "1662982813",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "0C4904B11608CBCE909DB850C4370D8D"
+        },
+        "message": {
+          "conversation": "P"
+        },
+        "messageTimestamp": "1663064063",
+        "status": "DELIVERY_ACK",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663064066",
+            "readTimestamp": "0",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "345FAE6544A0B59FEB83CD8010A36A1E"
+        },
+        "message": {
+          "conversation": "P"
+        },
+        "messageTimestamp": "1663064108",
+        "status": "DELIVERY_ACK",
+        "messageC2STimestamp": "1663064109",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663064116",
+            "readTimestamp": "0",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "68DE7BE99354E41F51619E1529574EAB"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663070130",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "2B080C947306CA9672FA6DEE0A68833E"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663070304",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5D70C4175E27D"
+        },
+        "message": {
+          "listMessage": {
+            "title": "Konbanwa!, πt.",
+            "description": "Berikut ini adalah daftar menu Haruno Bot.",
+            "buttonText": "Click Here",
+            "listType": "SINGLE_SELECT",
+            "sections": [
+              {
+                "title": "Informasi Bot",
+                "rows": [
+                  {
+                    "title": "Pemilik Bot",
+                    "description": "Nomor Pemilik Bot (owner)",
+                    "rowId": ".creator"
+                  },
+                  {
+                    "title": "Syarat Ketentuan dan Peraturan",
+                    "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                    "rowId": ".rules"
+                  },
+                  {
+                    "title": "Group Official Harunobot",
+                    "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                    "rowId": ".harunoff"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 1 」",
+                "rows": [
+                  {
+                    "title": "Semua Perintah",
+                    "description": "Menu Semua Perintah",
+                    "rowId": ".? all"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 2 」",
+                "rows": [
+                  {
+                    "title": "Game",
+                    "description": "Menu untuk Game",
+                    "rowId": ".? game"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 3 」",
+                "rows": [
+                  {
+                    "title": "XP",
+                    "description": "Menu untuk XP",
+                    "rowId": ".? xp"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 4 」",
+                "rows": [
+                  {
+                    "title": "Sticker",
+                    "description": "Menu untuk Sticker",
+                    "rowId": ".? stiker"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 5 」",
+                "rows": [
+                  {
+                    "title": "Anime",
+                    "description": "Some anime, manga, doujinshi stuff...",
+                    "rowId": ".? anime"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 6 」",
+                "rows": [
+                  {
+                    "title": "Kerang Ajaib",
+                    "description": "Puja kerang ajaib...",
+                    "rowId": ".? kerangajaib"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 7 」",
+                "rows": [
+                  {
+                    "title": "Quotes",
+                    "description": "Menu untuk Quotes",
+                    "rowId": ".? quotes"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 8 」",
+                "rows": [
+                  {
+                    "title": "Admin",
+                    "description": "Menu untuk Admin",
+                    "rowId": ".? admin"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 9 」",
+                "rows": [
+                  {
+                    "title": "Grup",
+                    "description": "Menu untuk Group",
+                    "rowId": ".? group"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 10 」",
+                "rows": [
+                  {
+                    "title": "Premium",
+                    "description": "Menu untuk Premium Users",
+                    "rowId": ".? premium"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 11 」",
+                "rows": [
+                  {
+                    "title": "Internet",
+                    "description": "Menu untuk menjelajahi Internet...",
+                    "rowId": ".? internet"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 12 」",
+                "rows": [
+                  {
+                    "title": "Anonymous Chat",
+                    "description": "Menu untuk Anonymous Chat",
+                    "rowId": ".? anonymous"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 13 」",
+                "rows": [
+                  {
+                    "title": "Nulis & Logo",
+                    "description": "Menu untuk Nulis & Logo",
+                    "rowId": ".? nulis"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 14 」",
+                "rows": [
+                  {
+                    "title": "Downloader",
+                    "description": "Menu Downloader",
+                    "rowId": ".? downloader"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 15 」",
+                "rows": [
+                  {
+                    "title": "Tools",
+                    "description": "Menu untuk Tools",
+                    "rowId": ".? tools"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 16 」",
+                "rows": [
+                  {
+                    "title": "Fun",
+                    "description": "Menu Fun",
+                    "rowId": ".? fun"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 17 」",
+                "rows": [
+                  {
+                    "title": "Database",
+                    "description": "Menu untuk Database",
+                    "rowId": ".? database"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 18 」",
+                "rows": [
+                  {
+                    "title": "Vote & Absen",
+                    "description": "Menu untuk Vote & Absen",
+                    "rowId": ".? vote"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 19 」",
+                "rows": [
+                  {
+                    "title": "Islamic",
+                    "description": "Menu Islamic",
+                    "rowId": ".? islamic"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 20 」",
+                "rows": [
+                  {
+                    "title": "Pengubah Suara",
+                    "description": "Menu Pengubah Suara",
+                    "rowId": ".? audio"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 21 」",
+                "rows": [
+                  {
+                    "title": "Jadi Bot",
+                    "description": "Numpang",
+                    "rowId": ".? jadibot"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 22 」",
+                "rows": [
+                  {
+                    "title": "Info",
+                    "description": "Menu untuk Info",
+                    "rowId": ".? info"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 23 」",
+                "rows": [
+                  {
+                    "title": "Tanpa Kategori",
+                    "description": "Menu Tanpa Kategori",
+                    "rowId": ".? tanpakategori"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 24 」",
+                "rows": [
+                  {
+                    "title": "Owner Menu",
+                    "description": "Menu Khusus Owner",
+                    "rowId": ".? owner"
+                  }
+                ]
+              }
+            ],
+            "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```",
+            "contextInfo": {
+              "stanzaId": "2B080C947306CA9672FA6DEE0A68833E",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".menu"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663070304",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663070305",
+            "readTimestamp": "1663070306",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "5BD529F0E48316B9A4473085C541D8FF"
+        },
+        "message": {
+          "listResponseMessage": {
+            "title": "Semua Perintah",
+            "listType": "SINGLE_SELECT",
+            "singleSelectReply": {},
+            "contextInfo": {
+              "stanzaId": "BAE5D70C4175E27D",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "Konbanwa!, πt.",
+                  "description": "Berikut ini adalah daftar menu Haruno Bot.",
+                  "buttonText": "Click Here",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "Informasi Bot",
+                      "rows": [
+                        {
+                          "title": "Pemilik Bot",
+                          "description": "Nomor Pemilik Bot (owner)",
+                          "rowId": ".creator"
+                        },
+                        {
+                          "title": "Syarat Ketentuan dan Peraturan",
+                          "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                          "rowId": ".rules"
+                        },
+                        {
+                          "title": "Group Official Harunobot",
+                          "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                          "rowId": ".harunoff"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 1 」",
+                      "rows": [
+                        {
+                          "title": "Semua Perintah",
+                          "description": "Menu Semua Perintah",
+                          "rowId": ".? all"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 2 」",
+                      "rows": [
+                        {
+                          "title": "Game",
+                          "description": "Menu untuk Game",
+                          "rowId": ".? game"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 3 」",
+                      "rows": [
+                        {
+                          "title": "XP",
+                          "description": "Menu untuk XP",
+                          "rowId": ".? xp"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 4 」",
+                      "rows": [
+                        {
+                          "title": "Sticker",
+                          "description": "Menu untuk Sticker",
+                          "rowId": ".? stiker"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 5 」",
+                      "rows": [
+                        {
+                          "title": "Anime",
+                          "description": "Some anime, manga, doujinshi stuff...",
+                          "rowId": ".? anime"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 6 」",
+                      "rows": [
+                        {
+                          "title": "Kerang Ajaib",
+                          "description": "Puja kerang ajaib...",
+                          "rowId": ".? kerangajaib"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 7 」",
+                      "rows": [
+                        {
+                          "title": "Quotes",
+                          "description": "Menu untuk Quotes",
+                          "rowId": ".? quotes"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 8 」",
+                      "rows": [
+                        {
+                          "title": "Admin",
+                          "description": "Menu untuk Admin",
+                          "rowId": ".? admin"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 9 」",
+                      "rows": [
+                        {
+                          "title": "Grup",
+                          "description": "Menu untuk Group",
+                          "rowId": ".? group"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 10 」",
+                      "rows": [
+                        {
+                          "title": "Premium",
+                          "description": "Menu untuk Premium Users",
+                          "rowId": ".? premium"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 11 」",
+                      "rows": [
+                        {
+                          "title": "Internet",
+                          "description": "Menu untuk menjelajahi Internet...",
+                          "rowId": ".? internet"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 12 」",
+                      "rows": [
+                        {
+                          "title": "Anonymous Chat",
+                          "description": "Menu untuk Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 13 」",
+                      "rows": [
+                        {
+                          "title": "Nulis & Logo",
+                          "description": "Menu untuk Nulis & Logo",
+                          "rowId": ".? nulis"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 14 」",
+                      "rows": [
+                        {
+                          "title": "Downloader",
+                          "description": "Menu Downloader",
+                          "rowId": ".? downloader"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 15 」",
+                      "rows": [
+                        {
+                          "title": "Tools",
+                          "description": "Menu untuk Tools",
+                          "rowId": ".? tools"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 16 」",
+                      "rows": [
+                        {
+                          "title": "Fun",
+                          "description": "Menu Fun",
+                          "rowId": ".? fun"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 17 」",
+                      "rows": [
+                        {
+                          "title": "Database",
+                          "description": "Menu untuk Database",
+                          "rowId": ".? database"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 18 」",
+                      "rows": [
+                        {
+                          "title": "Vote & Absen",
+                          "description": "Menu untuk Vote & Absen",
+                          "rowId": ".? vote"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 19 」",
+                      "rows": [
+                        {
+                          "title": "Islamic",
+                          "description": "Menu Islamic",
+                          "rowId": ".? islamic"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 20 」",
+                      "rows": [
+                        {
+                          "title": "Pengubah Suara",
+                          "description": "Menu Pengubah Suara",
+                          "rowId": ".? audio"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 21 」",
+                      "rows": [
+                        {
+                          "title": "Jadi Bot",
+                          "description": "Numpang",
+                          "rowId": ".? jadibot"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 22 」",
+                      "rows": [
+                        {
+                          "title": "Info",
+                          "description": "Menu untuk Info",
+                          "rowId": ".? info"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 23 」",
+                      "rows": [
+                        {
+                          "title": "Tanpa Kategori",
+                          "description": "Menu Tanpa Kategori",
+                          "rowId": ".? tanpakategori"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 24 」",
+                      "rows": [
+                        {
+                          "title": "Owner Menu",
+                          "description": "Menu Khusus Owner",
+                          "rowId": ".? owner"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```"
+                }
+              }
+            },
+            "description": "Menu Semua Perintah"
+          }
+        },
+        "messageTimestamp": "1663070310",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE588210B9ABE77"
+        },
+        "message": {
+          "buttonsMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/At0nEoEyGFKeEjfEAQqahWxQ9exZaaTvuiSw-S_H9fV8.enc",
+              "mimetype": "image/jpeg",
+              "caption": "┌──「 *+62 831-1036-4520* 」\n├ Hai, *πt.!*\n├ 18.58.29\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Utama 」\n├ .afk <alasan>\n├ .jadian\n├ .groupofficial\n├ .menu\n├ .help\n├ .?\n├ .rules\n└───\n\n┌──「 Game 」\n├ .caklontong\n├ .family100\n├ .math <mode>\n├ .siapakahaku\n├ .tebakgambar\n├ .tebakkata\n├ .tictactoe [custom room name]\n├ .ttt [custom room name]\n└───\n\n┌──「 Exp & Limit 」\n├ .buy<jumlah limit>\n├ .buy <jumlah limit>\n├ .buyall\n├ .daily\n├ .claim\n├ .daily\n├ .claim\n├ .leaderboard <jumlah user>\n├ .lb <jumlah user>\n├ .levelup\n└───\n\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───\n\n┌──「 Anime 」\n├ .neko\n├ .waifu\n└───\n\n┌──「 Kerang Ajaib 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n└───\n\n┌──「 Quotes 」\n├ .bucin\n├ .dare\n├ .truth\n└───\n\n┌──「 Admin (Dinonaktifkan) 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n└───\n\n┌──「 Grup 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n├ .enable <option>\n├ .disable <option>\n├ .infogrup\n├ .leavegc\n├ .leavegcall\n├ .leavegroup\n├ .linkgroup\n├ .pengumuman [teks]\n├ .announce [teks]\n├ .hidetag [teks]\n├ .grup <buka/tutup>\n├ .tagall\n└───\n\n┌──「 Premium 」\n└───\n\n┌──「 Internet 」\n├ .google <pencarian>\n├ .googlef <pencarian>\n├ .gimage <query>\n├ .image <query>\n├ .fetch <url>\n├ .get <url>\n├ .kbbi <teks>\n├ .lirik <Apa>\n├ .wikipedia <apa>\n├ .yts <pencarian>\n├ .ytsearch <pencarian>\n└───\n\n┌──「 Anonymous Chat 」\n├ .start\n├ .leave\n├ .next\n└───\n\n┌──「 MagerNulis & Logo 」\n├ .tahta <teks> (Limit)\n├ .nulis <teks>\n└───\n\n┌──「 Downloader 」\n├ .facebook\n├ .gitclone <url> (Limit)\n├ .ig <url>\n├ .igstalk <username>\n├ .mediafire <url> (Limit)\n├ .tiktok\n├ .zippyshare\n├ .pinterest\n├ .wallpaper <query>\n├ .wallpaper2 <query>\n├ .play\n├ .ytmp3 <url> (Limit)\n├ .yta <url> (Limit)\n├ .ytmp4 <url> <without message> (Limit)\n├ .ytv <url> <without message> (Limit)\n├ .yt <url> <without message> (Limit)\n└───\n\n┌──「 Tools 」\n├ .brainly\n├ .getprofile [@users]\n├ .gimage <query>\n├ .image <query>\n├ .join <chat.whatsapp.com>\n├ .nulis2 <teks>\n├ .ping\n├ .speed\n├ .del\n├ .delete\n├ .halah <teks>\n├ .hilih <teks>\n├ .huluh <teks>\n├ .heleh <teks>\n├ .holoh <teks>\n├ .qr <teks>\n├ .qrcode <teks>\n├ .readmore <teks>|<teks>\n├ .spoiler <teks>|<teks>\n├ .readviewonce\n├ .style <text>\n├ .translate <lang> <teks>\n├ .tts <lang> <teks>\n├ .upload\n└───\n\n┌──「 Fun 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ .jadian\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n├ .dare\n├ .truth\n└───\n\n┌──「 Database 」\n├ .delcmd <teks>\n├ .listcmd\n├ .unlockcmd\n├ .lockcmd\n├ .setcmd <teks>\n├ .addmsg <teks>\n├ .delmsg <teks>\n├ .listmsg\n└───\n\n┌──「 Voting 」\n└───\n\n┌──「 Absen 」\n└───\n\n┌──「 Al Qur'an 」\n├ .salat <daerah>\n└───\n\n┌──「 Pengubah Suara 」\n├ .tomp3 <reply>\n├ .tovn (reply)\n└───\n\n┌──「 Jadi Bot 」\n└───\n\n┌──「 Info 」\n├ .owner\n├ .creator\n├ .delete\n├ .donasi\n├ .groups\n├ .grouplist\n├ .ping\n├ .speed\n└───\n\n┌──「 Tanpa Kategori 」\n└───",
+              "fileSha256": "oPc0WrB6PA9RGwtx1pDVUvQyLAgyTCMQuzap7hFnS38=",
+              "fileLength": "567107",
+              "mediaKey": "9gcojRkOl7AdbE9wkqMxKgZUiFF9IpNHbcsrUV03EGI=",
+              "fileEncSha256": "H6z20e9kdPndpVB0j1XXkuBM3LxhujqI06MsvA0pwSg=",
+              "directPath": "/v/t62.7118-24/29495357_614293030264420_8564002274159208265_n.enc?ccb=11-4&oh=01_AVwe5tp4fLty1Bnv4Ffr0GxjZKZx6lPE7658FXmaXcYtug&oe=63459048",
+              "mediaKeyTimestamp": "1663070320",
+              "contextInfo": {
+                "stanzaId": "5BD529F0E48316B9A4473085C541D8FF",
+                "participant": "6283809157951@s.whatsapp.net",
+                "quotedMessage": {
+                  "conversation": ".? all"
+                }
+              }
+            },
+            "contentText": "┌──「 *+62 831-1036-4520* 」\n├ Hai, *πt.!*\n├ 18.58.29\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Utama 」\n├ .afk <alasan>\n├ .jadian\n├ .groupofficial\n├ .menu\n├ .help\n├ .?\n├ .rules\n└───\n\n┌──「 Game 」\n├ .caklontong\n├ .family100\n├ .math <mode>\n├ .siapakahaku\n├ .tebakgambar\n├ .tebakkata\n├ .tictactoe [custom room name]\n├ .ttt [custom room name]\n└───\n\n┌──「 Exp & Limit 」\n├ .buy<jumlah limit>\n├ .buy <jumlah limit>\n├ .buyall\n├ .daily\n├ .claim\n├ .daily\n├ .claim\n├ .leaderboard <jumlah user>\n├ .lb <jumlah user>\n├ .levelup\n└───\n\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───\n\n┌──「 Anime 」\n├ .neko\n├ .waifu\n└───\n\n┌──「 Kerang Ajaib 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n└───\n\n┌──「 Quotes 」\n├ .bucin\n├ .dare\n├ .truth\n└───\n\n┌──「 Admin (Dinonaktifkan) 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n└───\n\n┌──「 Grup 」\n├ .updatedesc\n├ .revoke\n├ .updatesubject\n├ .enable <option>\n├ .disable <option>\n├ .infogrup\n├ .leavegc\n├ .leavegcall\n├ .leavegroup\n├ .linkgroup\n├ .pengumuman [teks]\n├ .announce [teks]\n├ .hidetag [teks]\n├ .grup <buka/tutup>\n├ .tagall\n└───\n\n┌──「 Premium 」\n└───\n\n┌──「 Internet 」\n├ .google <pencarian>\n├ .googlef <pencarian>\n├ .gimage <query>\n├ .image <query>\n├ .fetch <url>\n├ .get <url>\n├ .kbbi <teks>\n├ .lirik <Apa>\n├ .wikipedia <apa>\n├ .yts <pencarian>\n├ .ytsearch <pencarian>\n└───\n\n┌──「 Anonymous Chat 」\n├ .start\n├ .leave\n├ .next\n└───\n\n┌──「 MagerNulis & Logo 」\n├ .tahta <teks> (Limit)\n├ .nulis <teks>\n└───\n\n┌──「 Downloader 」\n├ .facebook\n├ .gitclone <url> (Limit)\n├ .ig <url>\n├ .igstalk <username>\n├ .mediafire <url> (Limit)\n├ .tiktok\n├ .zippyshare\n├ .pinterest\n├ .wallpaper <query>\n├ .wallpaper2 <query>\n├ .play\n├ .ytmp3 <url> (Limit)\n├ .yta <url> (Limit)\n├ .ytmp4 <url> <without message> (Limit)\n├ .ytv <url> <without message> (Limit)\n├ .yt <url> <without message> (Limit)\n└───\n\n┌──「 Tools 」\n├ .brainly\n├ .getprofile [@users]\n├ .gimage <query>\n├ .image <query>\n├ .join <chat.whatsapp.com>\n├ .nulis2 <teks>\n├ .ping\n├ .speed\n├ .del\n├ .delete\n├ .halah <teks>\n├ .hilih <teks>\n├ .huluh <teks>\n├ .heleh <teks>\n├ .holoh <teks>\n├ .qr <teks>\n├ .qrcode <teks>\n├ .readmore <teks>|<teks>\n├ .spoiler <teks>|<teks>\n├ .readviewonce\n├ .style <text>\n├ .translate <lang> <teks>\n├ .tts <lang> <teks>\n├ .upload\n└───\n\n┌──「 Fun 」\n├ apakah <teks>?\n├ .apakah <teks>?\n├ .jadian\n├ kapan <text>?\n├ kapankah <text>?\n├ .kapan <text>?\n├ .kapankah <text>?\n├ .kerang <teks>\n├ .kerangajaib <teks>\n├ .dare\n├ .truth\n└───\n\n┌──「 Database 」\n├ .delcmd <teks>\n├ .listcmd\n├ .unlockcmd\n├ .lockcmd\n├ .setcmd <teks>\n├ .addmsg <teks>\n├ .delmsg <teks>\n├ .listmsg\n└───\n\n┌──「 Voting 」\n└───\n\n┌──「 Absen 」\n└───\n\n┌──「 Al Qur'an 」\n├ .salat <daerah>\n└───\n\n┌──「 Pengubah Suara 」\n├ .tomp3 <reply>\n├ .tovn (reply)\n└───\n\n┌──「 Jadi Bot 」\n└───\n\n┌──「 Info 」\n├ .owner\n├ .creator\n├ .delete\n├ .donasi\n├ .groups\n├ .grouplist\n├ .ping\n├ .speed\n└───\n\n┌──「 Tanpa Kategori 」\n└───",
+            "footerText": "© Haruno",
+            "buttons": [
+              {
+                "buttonId": ".owner",
+                "buttonText": {
+                  "displayText": "Owner"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".donasi",
+                "buttonText": {
+                  "displayText": "Donasi"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".harunoff",
+                "buttonText": {
+                  "displayText": "Group Official"
+                },
+                "type": "RESPONSE"
+              }
+            ],
+            "headerType": "IMAGE"
+          }
+        },
+        "messageTimestamp": "1663070322",
+        "status": "READ",
+        "mediaData": {
+          "localPath": "Media/WhatsApp Images/Sent/IMG-20220912-WA0000.jpg"
+        },
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663070322",
+            "readTimestamp": "1663070328",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BF7B9E26631C17335ADD8D281825B789"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+            "mimetype": "image/jpeg",
+            "caption": ".s",
+            "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+            "fileLength": "672826",
+            "height": 1007,
+            "width": 1007,
+            "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+            "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+            "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+            "mediaKeyTimestamp": "1663070337"
+          }
+        },
+        "messageTimestamp": "1663070339",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1127B1E87FE5E3F9ED80FBA53A73878D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070349",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "C3E8AF57204F003EEE12124AF08C7383"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".sticker",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070357",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BA590066E75280C43CA4BB55E6B1D04E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".stiker",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070361",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "D3EA3D134AABC6F706D69A0A20B4538A"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663070467",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "F6ABC0CA40672D611C3C02CA6A212E82"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663070569",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5D942B92FDED2"
+        },
+        "message": {
+          "listMessage": {
+            "title": "Konbanwa!, πt.",
+            "description": "Berikut ini adalah daftar menu Haruno Bot.",
+            "buttonText": "Click Here",
+            "listType": "SINGLE_SELECT",
+            "sections": [
+              {
+                "title": "Informasi Bot",
+                "rows": [
+                  {
+                    "title": "Pemilik Bot",
+                    "description": "Nomor Pemilik Bot (owner)",
+                    "rowId": ".creator"
+                  },
+                  {
+                    "title": "Syarat Ketentuan dan Peraturan",
+                    "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                    "rowId": ".rules"
+                  },
+                  {
+                    "title": "Group Official Harunobot",
+                    "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                    "rowId": ".harunoff"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 1 」",
+                "rows": [
+                  {
+                    "title": "Semua Perintah",
+                    "description": "Menu Semua Perintah",
+                    "rowId": ".? all"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 2 」",
+                "rows": [
+                  {
+                    "title": "Game",
+                    "description": "Menu untuk Game",
+                    "rowId": ".? game"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 3 」",
+                "rows": [
+                  {
+                    "title": "XP",
+                    "description": "Menu untuk XP",
+                    "rowId": ".? xp"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 4 」",
+                "rows": [
+                  {
+                    "title": "Sticker",
+                    "description": "Menu untuk Sticker",
+                    "rowId": ".? stiker"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 5 」",
+                "rows": [
+                  {
+                    "title": "Anime",
+                    "description": "Some anime, manga, doujinshi stuff...",
+                    "rowId": ".? anime"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 6 」",
+                "rows": [
+                  {
+                    "title": "Kerang Ajaib",
+                    "description": "Puja kerang ajaib...",
+                    "rowId": ".? kerangajaib"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 7 」",
+                "rows": [
+                  {
+                    "title": "Quotes",
+                    "description": "Menu untuk Quotes",
+                    "rowId": ".? quotes"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 8 」",
+                "rows": [
+                  {
+                    "title": "Admin",
+                    "description": "Menu untuk Admin",
+                    "rowId": ".? admin"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 9 」",
+                "rows": [
+                  {
+                    "title": "Grup",
+                    "description": "Menu untuk Group",
+                    "rowId": ".? group"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 10 」",
+                "rows": [
+                  {
+                    "title": "Premium",
+                    "description": "Menu untuk Premium Users",
+                    "rowId": ".? premium"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 11 」",
+                "rows": [
+                  {
+                    "title": "Internet",
+                    "description": "Menu untuk menjelajahi Internet...",
+                    "rowId": ".? internet"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 12 」",
+                "rows": [
+                  {
+                    "title": "Anonymous Chat",
+                    "description": "Menu untuk Anonymous Chat",
+                    "rowId": ".? anonymous"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 13 」",
+                "rows": [
+                  {
+                    "title": "Nulis & Logo",
+                    "description": "Menu untuk Nulis & Logo",
+                    "rowId": ".? nulis"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 14 」",
+                "rows": [
+                  {
+                    "title": "Downloader",
+                    "description": "Menu Downloader",
+                    "rowId": ".? downloader"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 15 」",
+                "rows": [
+                  {
+                    "title": "Tools",
+                    "description": "Menu untuk Tools",
+                    "rowId": ".? tools"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 16 」",
+                "rows": [
+                  {
+                    "title": "Fun",
+                    "description": "Menu Fun",
+                    "rowId": ".? fun"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 17 」",
+                "rows": [
+                  {
+                    "title": "Database",
+                    "description": "Menu untuk Database",
+                    "rowId": ".? database"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 18 」",
+                "rows": [
+                  {
+                    "title": "Vote & Absen",
+                    "description": "Menu untuk Vote & Absen",
+                    "rowId": ".? vote"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 19 」",
+                "rows": [
+                  {
+                    "title": "Islamic",
+                    "description": "Menu Islamic",
+                    "rowId": ".? islamic"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 20 」",
+                "rows": [
+                  {
+                    "title": "Pengubah Suara",
+                    "description": "Menu Pengubah Suara",
+                    "rowId": ".? audio"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 21 」",
+                "rows": [
+                  {
+                    "title": "Jadi Bot",
+                    "description": "Numpang",
+                    "rowId": ".? jadibot"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 22 」",
+                "rows": [
+                  {
+                    "title": "Info",
+                    "description": "Menu untuk Info",
+                    "rowId": ".? info"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 23 」",
+                "rows": [
+                  {
+                    "title": "Tanpa Kategori",
+                    "description": "Menu Tanpa Kategori",
+                    "rowId": ".? tanpakategori"
+                  }
+                ]
+              },
+              {
+                "title": "─────「 24 」",
+                "rows": [
+                  {
+                    "title": "Owner Menu",
+                    "description": "Menu Khusus Owner",
+                    "rowId": ".? owner"
+                  }
+                ]
+              }
+            ],
+            "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```",
+            "contextInfo": {
+              "stanzaId": "F6ABC0CA40672D611C3C02CA6A212E82",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".menu"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663070570",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "0",
+            "readTimestamp": "1663070571",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "DD72C47B72CA1608CCCC0FC44EA66374"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070577",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3050D8B6E0D9893C7DC22C4CB9A251AC"
+        },
+        "message": {
+          "listResponseMessage": {
+            "title": "Sticker",
+            "listType": "SINGLE_SELECT",
+            "singleSelectReply": {},
+            "contextInfo": {
+              "stanzaId": "BAE5D942B92FDED2",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "Konbanwa!, πt.",
+                  "description": "Berikut ini adalah daftar menu Haruno Bot.",
+                  "buttonText": "Click Here",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "Informasi Bot",
+                      "rows": [
+                        {
+                          "title": "Pemilik Bot",
+                          "description": "Nomor Pemilik Bot (owner)",
+                          "rowId": ".creator"
+                        },
+                        {
+                          "title": "Syarat Ketentuan dan Peraturan",
+                          "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
+                          "rowId": ".rules"
+                        },
+                        {
+                          "title": "Group Official Harunobot",
+                          "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan",
+                          "rowId": ".harunoff"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 1 」",
+                      "rows": [
+                        {
+                          "title": "Semua Perintah",
+                          "description": "Menu Semua Perintah",
+                          "rowId": ".? all"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 2 」",
+                      "rows": [
+                        {
+                          "title": "Game",
+                          "description": "Menu untuk Game",
+                          "rowId": ".? game"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 3 」",
+                      "rows": [
+                        {
+                          "title": "XP",
+                          "description": "Menu untuk XP",
+                          "rowId": ".? xp"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 4 」",
+                      "rows": [
+                        {
+                          "title": "Sticker",
+                          "description": "Menu untuk Sticker",
+                          "rowId": ".? stiker"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 5 」",
+                      "rows": [
+                        {
+                          "title": "Anime",
+                          "description": "Some anime, manga, doujinshi stuff...",
+                          "rowId": ".? anime"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 6 」",
+                      "rows": [
+                        {
+                          "title": "Kerang Ajaib",
+                          "description": "Puja kerang ajaib...",
+                          "rowId": ".? kerangajaib"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 7 」",
+                      "rows": [
+                        {
+                          "title": "Quotes",
+                          "description": "Menu untuk Quotes",
+                          "rowId": ".? quotes"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 8 」",
+                      "rows": [
+                        {
+                          "title": "Admin",
+                          "description": "Menu untuk Admin",
+                          "rowId": ".? admin"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 9 」",
+                      "rows": [
+                        {
+                          "title": "Grup",
+                          "description": "Menu untuk Group",
+                          "rowId": ".? group"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 10 」",
+                      "rows": [
+                        {
+                          "title": "Premium",
+                          "description": "Menu untuk Premium Users",
+                          "rowId": ".? premium"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 11 」",
+                      "rows": [
+                        {
+                          "title": "Internet",
+                          "description": "Menu untuk menjelajahi Internet...",
+                          "rowId": ".? internet"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 12 」",
+                      "rows": [
+                        {
+                          "title": "Anonymous Chat",
+                          "description": "Menu untuk Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 13 」",
+                      "rows": [
+                        {
+                          "title": "Nulis & Logo",
+                          "description": "Menu untuk Nulis & Logo",
+                          "rowId": ".? nulis"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 14 」",
+                      "rows": [
+                        {
+                          "title": "Downloader",
+                          "description": "Menu Downloader",
+                          "rowId": ".? downloader"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 15 」",
+                      "rows": [
+                        {
+                          "title": "Tools",
+                          "description": "Menu untuk Tools",
+                          "rowId": ".? tools"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 16 」",
+                      "rows": [
+                        {
+                          "title": "Fun",
+                          "description": "Menu Fun",
+                          "rowId": ".? fun"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 17 」",
+                      "rows": [
+                        {
+                          "title": "Database",
+                          "description": "Menu untuk Database",
+                          "rowId": ".? database"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 18 」",
+                      "rows": [
+                        {
+                          "title": "Vote & Absen",
+                          "description": "Menu untuk Vote & Absen",
+                          "rowId": ".? vote"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 19 」",
+                      "rows": [
+                        {
+                          "title": "Islamic",
+                          "description": "Menu Islamic",
+                          "rowId": ".? islamic"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 20 」",
+                      "rows": [
+                        {
+                          "title": "Pengubah Suara",
+                          "description": "Menu Pengubah Suara",
+                          "rowId": ".? audio"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 21 」",
+                      "rows": [
+                        {
+                          "title": "Jadi Bot",
+                          "description": "Numpang",
+                          "rowId": ".? jadibot"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 22 」",
+                      "rows": [
+                        {
+                          "title": "Info",
+                          "description": "Menu untuk Info",
+                          "rowId": ".? info"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 23 」",
+                      "rows": [
+                        {
+                          "title": "Tanpa Kategori",
+                          "description": "Menu Tanpa Kategori",
+                          "rowId": ".? tanpakategori"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "─────「 24 」",
+                      "rows": [
+                        {
+                          "title": "Owner Menu",
+                          "description": "Menu Khusus Owner",
+                          "rowId": ".? owner"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "Silahkan tekan tombol \"Click Here\" untuk melihat sub-menu Haruno Bot.\n\nJika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.\n\n*Group Official*: ```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```"
+                }
+              }
+            },
+            "description": "Menu untuk Sticker"
+          }
+        },
+        "messageTimestamp": "1663070587",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE523B27BE8121F"
+        },
+        "message": {
+          "buttonsMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/AitxHsLM25iNSsehanzaJ0TJxwdhTQ_qGbNjQq1sgv0X.enc",
+              "mimetype": "image/jpeg",
+              "caption": "┌──「 *anon.bot* 」\n├ Hai, *πt.!*\n├ 19.03.06\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───",
+              "fileSha256": "oPc0WrB6PA9RGwtx1pDVUvQyLAgyTCMQuzap7hFnS38=",
+              "fileLength": "567107",
+              "mediaKey": "xXFyilIOxBxL123DdeWXg3VIxkCVFkGQMNpthYl13FQ=",
+              "fileEncSha256": "upFr2Mkojv2YoB7EZ6v8Gc9oVposu0+0uzugI5WHMTU=",
+              "directPath": "/v/t62.7118-24/25235284_466866888656845_8728857478412598978_n.enc?ccb=11-4&oh=01_AVzFU_nLwaCyQjIHT_UOt22c_2qcNyUHioxTbKvfDe3JVg&oe=63477B0E",
+              "mediaKeyTimestamp": "1663070593",
+              "contextInfo": {
+                "stanzaId": "3050D8B6E0D9893C7DC22C4CB9A251AC",
+                "participant": "6283809157951@s.whatsapp.net",
+                "quotedMessage": {
+                  "conversation": ".? stiker"
+                }
+              }
+            },
+            "contentText": "┌──「 *anon.bot* 」\n├ Hai, *πt.!*\n├ 19.03.06\n│\n├ *© Haruno*\n└───\n\n*Group Official*:\n```https://chat.whatsapp.com/Dqdjz7aSWJj0IyORAsdYom```\n\nJika ingin memasukkan bot kedalam group, ketik command:\n*.join <link group mu>*\n\u0001\n┌──「 Stiker 」\n├ .attp <teks>\n├ .getexif\n├ .stikerline <url> (Limit)\n├ .toimg (reply)\n├ .ttp <teks>\n├ .wm <packname>|<author>\n└───",
+            "footerText": "© Haruno",
+            "buttons": [
+              {
+                "buttonId": ".owner",
+                "buttonText": {
+                  "displayText": "Owner"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".donasi",
+                "buttonText": {
+                  "displayText": "Donasi"
+                },
+                "type": "RESPONSE"
+              },
+              {
+                "buttonId": ".harunoff",
+                "buttonText": {
+                  "displayText": "Group Official"
+                },
+                "type": "RESPONSE"
+              }
+            ],
+            "headerType": "IMAGE"
+          }
+        },
+        "messageTimestamp": "1663070595",
+        "status": "READ",
+        "mediaData": {
+          "localPath": "Media/WhatsApp Images/Sent/IMG-20220912-WA0000.jpg"
+        },
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663070595",
+            "readTimestamp": "1663070729",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "5D829A1CFB2B4C10F6D85993244FBE1F"
+        },
+        "message": {
+          "conversation": ".wm Wahyu|ya"
+        },
+        "messageTimestamp": "1663070729",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5BAA80F991C4B"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Quoted the sticker!",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "5D829A1CFB2B4C10F6D85993244FBE1F",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".wm Wahyu|ya"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070733",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "1663070733",
+            "readTimestamp": "1663070779",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "58BEAE2AD1DBA58EC34DA707849B9740"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".wm",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070789",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE52336B396E99F"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Conversion failed",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "58BEAE2AD1DBA58EC34DA707849B9740",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".wm"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070790",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "0",
+            "readTimestamp": "1663070791",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "44AED9453BBBDCB60E23151564F58844"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".wm Wahyu|<π",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "BF7B9E26631C17335ADD8D281825B789",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/ArhUIEYEXZV7Qfi17qqDdqP4W6mgCLPlOuIQeIRVdB3K.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": ".s",
+                  "fileSha256": "lTzCK54hnVOcSAElnS93fNKY0C/1T1mE132zW7Gc6gA=",
+                  "fileLength": "672826",
+                  "height": 1007,
+                  "width": 1007,
+                  "mediaKey": "6iIHXEQblOfNnOLvPLbv9t5PHDt6kxoIDwFJmKSlKnw=",
+                  "fileEncSha256": "4hwcL/DbJat1IWqysqNhxa6gJ4h6y94hZYqSWqEWMvU=",
+                  "directPath": "/v/t62.7118-24/33532617_1174674856446930_4057564225874816950_n.enc?ccb=11-4&oh=01_AVwZN44zWqvEeMj7Uqg49H9ZEcXu45fhob4FGo_oVxfOOA&oe=63448CF8",
+                  "mediaKeyTimestamp": "1663070337"
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070803",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5E20214685FE5"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Conversion failed",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "44AED9453BBBDCB60E23151564F58844",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".wm Wahyu|<π"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070804",
+        "status": "READ",
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "0",
+            "readTimestamp": "1663070804",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1E0A0E71A2F9B44AF15AE72885A3F5A6"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AnWflDosuciDucHedaK747uoYttWuBPS9oEXyvQxlgjK.enc",
+            "fileSha256": "4DezDvyqs9zl/Q2izjRFOTtold/6iIhwapRFWiaxjvM=",
+            "fileEncSha256": "j6aGB4Q47l0FoIJF/Esg15N5HzvOC+RbbClgk1yU5bw=",
+            "mediaKey": "JhdLuwrSaUqgJXwnhltvO6L02287pcvfADqODnvDCss=",
+            "mimetype": "image/webp",
+            "height": 64,
+            "width": 64,
+            "directPath": "/v/t62.15575-24/26790162_488213586498926_544152017286383590_n.enc?ccb=11-4&oh=01_AVz_FQTTVDR5JVTYba74jLT_UrTARKhLMCbafJHDle04pw&oe=6346D3BC",
+            "fileLength": "516198",
+            "mediaKeyTimestamp": "1663070823",
+            "firstFrameLength": 5830,
+            "firstFrameSidecar": "QlbgaItqSh1qrg==",
+            "isAnimated": true
+          }
+        },
+        "messageTimestamp": "1663070824",
+        "status": "READ",
+        "ephemeralOutOfSync": false,
+        "mediaData": {
+          "localPath": "Media/WhatsApp Stickers/STK-20220913-WA0000.webp"
+        }
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3928EA473D2F7E35F5F33C82CAB5C169"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".wm punya ayang|bella<3",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "1E0A0E71A2F9B44AF15AE72885A3F5A6",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "stickerMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/AnWflDosuciDucHedaK747uoYttWuBPS9oEXyvQxlgjK.enc",
+                  "fileSha256": "4DezDvyqs9zl/Q2izjRFOTtold/6iIhwapRFWiaxjvM=",
+                  "fileEncSha256": "j6aGB4Q47l0FoIJF/Esg15N5HzvOC+RbbClgk1yU5bw=",
+                  "mediaKey": "JhdLuwrSaUqgJXwnhltvO6L02287pcvfADqODnvDCss=",
+                  "mimetype": "image/webp",
+                  "height": 64,
+                  "width": 64,
+                  "directPath": "/v/t62.15575-24/26790162_488213586498926_544152017286383590_n.enc?ccb=11-4&oh=01_AVz_FQTTVDR5JVTYba74jLT_UrTARKhLMCbafJHDle04pw&oe=6346D3BC",
+                  "fileLength": "516198",
+                  "mediaKeyTimestamp": "1663070823",
+                  "isAnimated": false
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663070855",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5AEDFEBBC0B63"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AojfzpJu1A7ICeqge1JjAhUnfBGg4idfMXEu4fmJb1Ky.enc",
+            "fileSha256": "5LyXEoi/glU5OEXgkVdVfNREYJeMZKZe/CpJITPTLPA=",
+            "fileEncSha256": "pR5ilCZnyEbXFIucCLdQDps9wAffLtBWdDIESzFHkN4=",
+            "mediaKey": "yGwyDxsveGZuGAsGtpBJMQEF61y18TpYQ5JFIxq/K/g=",
+            "mimetype": "image/webp",
+            "height": 64,
+            "width": 64,
+            "directPath": "/v/t62.7118-24/40117294_788149642229395_6470637715306822312_n.enc?ccb=11-4&oh=01_AVwVJ-CYrD1UNDoHbJ58ksEZhybX7CrsKp5eLtM29R0sUQ&oe=6346AC50",
+            "fileLength": "516092",
+            "mediaKeyTimestamp": "1663070857",
+            "isAnimated": false,
+            "contextInfo": {
+              "stanzaId": "3928EA473D2F7E35F5F33C82CAB5C169",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".wm punya ayang|bella<3"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663070859",
+        "status": "READ",
+        "mediaData": {
+          "localPath": "Media/WhatsApp Stickers/STK-20220913-WA0001.webp"
+        },
+        "userReceipt": [
+          {
+            "userJid": "6283809157951@s.whatsapp.net",
+            "receiptTimestamp": "0",
+            "readTimestamp": "1663070859",
+            "playedTimestamp": "0"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "4311705C6BFCC9BA7086950B53EBC62A"
+        },
+        "message": {
+          "conversation": "P"
+        },
+        "messageTimestamp": "1663071043",
+        "status": "READ",
+        "ephemeralOutOfSync": false
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "7A95624D962A2CF36A40ECA2B63DF959"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663091612",
+        "status": "DELIVERY_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE50C3C749ADDC9",
+          "participant": "6283110364520@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat pagi anon.bot```\n*Rabu - 14 September 2022*\n",
+                "description": "Sekarang Jam 00.53.31",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BENNIISMAEL & GHOST"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091612",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "0DDA6F190E5AF2B7537698BF63E82BBE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? all",
+            "contextInfo": {
+              "stanzaId": "BAE50C3C749ADDC9",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat pagi anon.bot```\n*Rabu - 14 September 2022*\n",
+                  "description": "Sekarang Jam 00.53.31",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BENNIISMAEL & GHOST"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091618",
+        "status": "DELIVERY_ACK",
+        "pushName": "anon.bot"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "EB164BE59647C993DA76B0CD24D8BB0F"
+        },
+        "message": {
+          "conversation": ".s"
+        },
+        "messageTimestamp": "1663091646",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5E798855AAF72"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Conversion failed",
+            "contextInfo": {
+              "stanzaId": "EB164BE59647C993DA76B0CD24D8BB0F",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".s"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091645",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B390A2E3DCBC3D0F4C244701A1B9787D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1663091653",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5354ACA498B7B"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AmS9Hkgtw1HCNP0COY1QR5w9oKZr73DO9Z2RfoCdtmS6.enc",
+            "fileSha256": "LR8cz3v5FoZRzbz9jdqSdA97h4cervsucaPQRAEd2Zg=",
+            "fileEncSha256": "7uDxiiHoWPppa7rFh9JpXa7S6hoQwu4FknBajPbc2jc=",
+            "mediaKey": "1yWyTa46Z4Fxt9M88yGne1JGBdB2UTZzjvSMG4uXhSE=",
+            "mimetype": "image/webp",
+            "directPath": "/v/t62.7118-24/19972074_759261825376252_2701145064831677534_n.enc?ccb=11-4&oh=01_AVxNMkEvVUELrQCUDzvZMWY960xe8IhARukATDr9hxIZDQ&oe=63462C9B",
+            "fileLength": "46724",
+            "mediaKeyTimestamp": "1663091662",
+            "contextInfo": {
+              "stanzaId": "B390A2E3DCBC3D0F4C244701A1B9787D",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091662",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE54EA303FD0AA1"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE50C3C749ADDC9",
+              "participant": "6283110364520@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1663091673",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "6B1E9B819DE264F6513181A66B8D1AD8"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663091690",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5F6CD726F8E36",
+          "participant": "6283110364520@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                "description": "Sekarang Jam 00.54.50",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BENNIISMAEL & GHOST"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091690",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "6F4CD5FC2F32DFCD683FEBBF51F7A448"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? downloader",
+            "contextInfo": {
+              "stanzaId": "BAE5F6CD726F8E36",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                  "description": "Sekarang Jam 00.54.50",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BENNIISMAEL & GHOST"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663091701",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5A726EC6F070C"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE5F6CD726F8E36",
+              "participant": "6283110364520@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1663091750",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "5E86DBCF43921FE62D496DD1117FBDED"
+        },
+        "message": {
+          "conversation": "A"
+        },
+        "messageTimestamp": "1663092903",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE56E15FBCA878B"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, πt. telah naik level!\n• 🧬Level Sebelumnya : 0\n• 🧬Level Baru : 1\n• 🧬Role Kamu : Warrior V\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "5E86DBCF43921FE62D496DD1117FBDED",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": "A"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093139",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "991B86ED3DF7890FC2DAAF26CA9B8301"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663093150",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE52F9E9AA79A49",
+          "participant": "6283110364520@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                "description": "Sekarang Jam 01.19.10",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BENNIISMAEL & GHOST"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093150",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "3516C8F3267CC6A4032901836CC6097C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? downloader",
+            "contextInfo": {
+              "stanzaId": "BAE52F9E9AA79A49",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                  "description": "Sekarang Jam 01.19.10",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BENNIISMAEL & GHOST"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093165",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "248278140B3630835CC357CEDD381231"
+        },
+        "message": {
+          "conversation": ".fb"
+        },
+        "messageTimestamp": "1663093180",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "D172878BF0B6DC835885A36E3960BF0E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? all",
+            "contextInfo": {
+              "stanzaId": "BAE52F9E9AA79A49",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                  "description": "Sekarang Jam 01.19.10",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BENNIISMAEL & GHOST"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093192",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE567A769860D7F"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE52F9E9AA79A49",
+              "participant": "6283110364520@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1663093211",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B6F2073F7ED4DFC4CE413D165B4084E9"
+        },
+        "message": {
+          "conversation": ".download"
+        },
+        "messageTimestamp": "1663093240",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE51876504096F1"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "linknya mana gan?",
+            "contextInfo": {
+              "stanzaId": "B6F2073F7ED4DFC4CE413D165B4084E9",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".download"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093240",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE581E04BB7FA5A"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "1 Limit terpakai",
+            "contextInfo": {
+              "stanzaId": "B6F2073F7ED4DFC4CE413D165B4084E9",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".download"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093240",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "2F10037368991CDB6581BBCA41B0D3D3"
+        },
+        "message": {
+          "conversation": ".download https://www.facebook.com/groups/609105223739008/permalink/772736837375845/"
+        },
+        "messageTimestamp": "1663093268",
+        "pushName": "πt.",
+        "reactions": [
+          {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE56482B9A6B028"
+            },
+            "text": "⏳",
+            "senderTimestampMs": "1663093268227"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE56482B9A6B028"
+        },
+        "message": {
+          "reactionMessage": {
+            "key": {
+              "remoteJid": "6283809157951@s.whatsapp.net",
+              "fromMe": false,
+              "id": "2F10037368991CDB6581BBCA41B0D3D3"
+            },
+            "text": "⏳",
+            "senderTimestampMs": "1663093268227"
+          }
+        },
+        "messageTimestamp": "1663093268",
+        "status": "PENDING"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE593D07AF7D600"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "*Sᴜᴄᴄᴇꜱꜱ Fᴇᴛᴄʜɪɴɢ Dᴀᴛᴀ*\n*Sᴇɴᴅɪɴɢ Fɪʟᴇ...*",
+            "contextInfo": {
+              "stanzaId": "2F10037368991CDB6581BBCA41B0D3D3",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".download https://www.facebook.com/groups/609105223739008/permalink/772736837375845/"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093288",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5A2DA5704B566"
+        },
+        "message": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/ApYRQj7yZjjdVP5xfnZUrN7EEwgL0RpDX5qS4ewsmYbE.enc",
+            "mimetype": "video/mp4",
+            "fileSha256": "l6voLRymlG5dBmyI6ccnvGEysqIjifbfVT///8nyEVQ=",
+            "fileLength": "676109",
+            "mediaKey": "pE2m8exM25XUt0+aIzYAWC8Gi5L3Sc1GpqhmlW1AiZU=",
+            "caption": "{\n  title: 'Video 3246664485649171',\n  quality: 'SD',\n  hd_download: 'https://video-hel3-1.xx.fbcdn.net/v/t39.25447-2/306894217_761780028236883_5979971148754053729_n.mp4?_nc_cat=103&vs=892161fac18ffb84&_nc_vs=HBksFQAYJEdJblZTaEpUNVBxNzFiUUNBR0hxa1pnVElQMVNibWRqQUFBRhUAAsgBABUAGCRHRkRuU0JLWFQ3LU5QYlVEQUtpNFNFWXVHS3hsYnJGcUFBQUYVAgLIAQBLBogScHJvZ3Jlc3NpdmVfcmVjaXBlATENc3Vic2FtcGxlX2ZwcwAQdm1hZl9lbmFibGVfbnN1YgAgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcAAAm6Nvgstz5%2BQcVAigCQzMYC3Z0c19wcmV2aWV3HBdAP7ul41P3zxg0ZGFzaF9pNGxpdGViYXNpY19wYXNzdGhyb3VnaGFsaWduZWRfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2Q4ElZJREVPX1ZJRVdfUkVRVUVTVBsKiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMBMAxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50BTQ3OTgyEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQQMzI0NjY2NDQ4NTY0OTE3MRJvZW1fdmlkZW9fYXNzZXRfaWQPNjE4NTQ5ODAzMDExMzU1FW9lbV92aWRlb19yZXNvdXJjZV9pZBAyMjM4NDk3ODE2MzE5NzMyHG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQPNDEyODgwMTcwOTUxMDExDnZ0c19yZXF1ZXN0X2lkACUCHAAlxAEbB4gBcwQyNDM2AmNkCjIwMjItMDktMTMDcmNiBTQ3OTAwA2FwcBdGYWNlYm9vayDQtNC70Y8gQW5kcm9pZAJjdApHUk9VUF9QT1NUE29yaWdpbmFsX2R1cmF0aW9uX3MFMzEuOTUCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=1-7&_nc_sid=edb743&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=3t3kdMe0ZiMAX8CWIBB&_nc_ht=video-hel3-1.xx&edm=AGo2L-IEAAAA&oh=00_AT9jx6kXqWnSLSUmUROgL6HhOsSfCGMWhhBwiRfymacaGw&oe=632533B3&_nc_rid=687886197205630',\n  source: 'https://www.facebook.com/groups/609105223739008/permalink/772736837375845/'\n}",
+            "fileEncSha256": "Z7YztYtUqfglNAeHRIpvYPdNQucVa34Z4BiXAdPvmRw=",
+            "directPath": "/v/t62.7161-24/29984698_1437292236735646_170187740633663829_n.enc?ccb=11-4&oh=01_AVzUstKHaj2nXD67Je-J1sF5mzTyk6J5xMvyRbHKqUcLUA&oe=63471EBE",
+            "mediaKeyTimestamp": "1663093296",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAgAAAQABAAD//gAQTGF2YzU5LjM3LjEwMAD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xAB6AAADAAMBAAAAAAAAAAAAAAAGAwUBBAIHAQEBAQAAAAAAAAAAAAAAAAABAgMQAAIBAgQDCAEFAQAAAAAAAAECAwQRIRIABTEGE3FRYTQjFCIygpFzQbKxQhEAAQQCAQUBAQAAAAAAAAAAAQARQQISMSETgaHBA1Ey/8AAEQgAEgAgAwEiAAIRAAMRAP/aAAwDAQACEQMRAD8Apxb3DSKiR08c3USJmV41ZEOVf5IGXxsdZh502xN3l26TblhiSCGU1S9EoHlLBUMbfLEq2IBwFzod26j32ppKiGlKu56LoroI5VOX5Rvme5Cm2ctlYg3W+l0/KHMiV1VLV0kRMsqNdZ2UmNECr01tIrAcSDIGzX1j0vlzkRr9Yqs7QPC9JhoqOopEqD7eGJ0wc5EUg4A3sBjqdPsFBT1s867jEydCUJRr7XIW6RUG49Q445SD8uGtiGdqXbaFHpZGC08augVmAYDG4vYAceGmGooKmkqHSOIHoy2bC+YRk8QTjw1gDeuXJYuI0rIrbF4Yzv33Q1y1LKWN5HPoJ/0e5fHVGWSSU5ZHd1FiFZiwB77HC+pnLP2P7Cf4uqR+57Bq7/2EV0lU088M2WOWSNcy4I7KP0BGl180qUtUFkdRmmNgxAuUa5wOuovMfkul7j5aq7Zf6NomySv/2Q==",
+            "contextInfo": {
+              "stanzaId": "2F10037368991CDB6581BBCA41B0D3D3",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".download https://www.facebook.com/groups/609105223739008/permalink/772736837375845/"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093296",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE54B4DFDBAEF0D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "1 Limit terpakai",
+            "contextInfo": {
+              "stanzaId": "2F10037368991CDB6581BBCA41B0D3D3",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".download https://www.facebook.com/groups/609105223739008/permalink/772736837375845/"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663093296",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1EBA41FCA679555A2B3B189C2B96FB76"
+        },
+        "message": {
+          "conversation": ".ig"
+        },
+        "messageTimestamp": "1663093312",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE593614861D95F"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1663095029",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "E8ED1BF1AA142CEB3264B165158BBDCE"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1663095039",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE575A54651BBF9"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                "description": "Sekarang Jam 01.50.38",
+                "buttonText": "Click here ✨",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "why? u"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095039",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1F32394EB5F9BB24B60B713B004459AF"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? internet",
+            "contextInfo": {
+              "stanzaId": "BAE575A54651BBF9",
+              "participant": "6283110364520@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat pagi πt.```\n*Rabu - 14 September 2022*\n",
+                  "description": "Sekarang Jam 01.50.38",
+                  "buttonText": "Click here ✨",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "why? u"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095052",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5E4EB27544604"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "templateMessage": {
+                "fourRowTemplate": {},
+                "hydratedTemplate": {
+                  "hydratedContentText": "👋🏻 ʜɪ ᴋᴀᴋ πᴛ.\n\n*Lɪᴍɪᴛ* : 100\n*Rᴏʟᴇ* : Bᴇɢɪɴɴᴇʀ\n*Lᴇᴠᴇʟ* : 0 (70 / 69)\n*Tᴏᴛᴀʟ ᴇxᴘ* : 70\n\n*Tᴀɴɢɢᴀʟ*: Rᴀʙᴜ, 14 Sᴇᴘᴛᴇᴍʙᴇʀ 2022\n*Wᴀᴋᴛᴜ*: 01.50.52\n\n*Uᴘᴛɪᴍᴇ*: 00:00:41 (00:00:42)\n*Dᴀᴛᴀʙᴀꜱᴇ*: 2\n\n\n*Iɴᴛᴇʀɴᴇᴛ*\n⚄ .ᴘɪɴᴛᴇʀᴇꜱᴛ <ᴋᴇʏᴡᴏʀᴅ>\n⚄ .ᴀɴɪᴍᴀʟ <ʜᴇᴡᴀɴ>\n⚄ .ʙʀᴀɪɴʟʏ [ꜱᴏᴀʟ] 🄻\n⚄ .ᴄᴏᴠɪᴅ <ɴᴇɢᴀʀᴀ>\n⚄ .ᴄᴜᴀᴄᴀ\n⚄ .ɢᴏᴏɢʟᴇ <ᴘᴇɴᴄᴀʀɪᴀɴ> 🄻\n⚄ .ɢᴏᴏɢʟᴇғ <ᴘᴇɴᴄᴀʀɪᴀɴ> 🄻\n⚄ .ᴋʙʙɪ <ᴛᴇᴋꜱ>\n⚄ .ʟɪʀɪᴋ <Aᴘᴀ>\n⚄ .ᴡᴀɪғᴜ\n⚄ .ʀᴡᴀɪғᴜ\n⚄ .ꜱꜱ *ᴜʀʟ*\n⚄ .ꜱꜱғ *ᴜʀʟ*\n⚄ .ᴡɪᴋɪᴘᴇᴅɪᴀ <ᴀᴘᴀ>",
+                  "hydratedFooterText": "whatsapp bot",
+                  "hydratedButtons": [
+                    {
+                      "urlButton": {
+                        "displayText": "Github",
+                        "url": "https://github.com/wahyudioputra"
+                      },
+                      "index": 1
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Donate",
+                        "id": "/donasi"
+                      },
+                      "index": 2
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Speed",
+                        "id": "/ping"
+                      },
+                      "index": 3
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Owner",
+                        "id": "/owner"
+                      },
+                      "index": 4
+                    }
+                  ]
+                }
+              },
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095053",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "EE9AA0B739A2FE4673768FD51B24042E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? all"
+          }
+        },
+        "messageTimestamp": "1663095055",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE58885CA19404A"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, πt. telah naik level!\n• 🧬Level Sebelumnya : 0\n• 🧬Level Baru : 1\n• 🧬Role Kamu : Warrior V\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "EE9AA0B739A2FE4673768FD51B24042E",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".? all"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095055",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5BF4832D90D97"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "templateMessage": {
+                "fourRowTemplate": {},
+                "hydratedTemplate": {
+                  "hydratedContentText": "👋🏻 ʜɪ ᴋᴀᴋ πᴛ.\n\n*Lɪᴍɪᴛ* : 100\n*Rᴏʟᴇ* : Wᴀʀʀɪᴏʀ V\n*Lᴇᴠᴇʟ* : 1 (22 / 342)\n*Tᴏᴛᴀʟ ᴇxᴘ* : 92\n\n*Tᴀɴɢɢᴀʟ*: Rᴀʙᴜ, 14 Sᴇᴘᴛᴇᴍʙᴇʀ 2022\n*Wᴀᴋᴛᴜ*: 01.50.55\n\n*Uᴘᴛɪᴍᴇ*: 00:00:44 (00:00:46)\n*Dᴀᴛᴀʙᴀꜱᴇ*: 2\n\n\n*Mᴀɪɴ*\n⚄ .ꜱᴇᴡᴀ\n⚄ .ᴘʀᴇᴍɪᴜᴍ\n⚄ .ʀᴜɴᴛɪᴍᴇ\n⚄ .ꜱᴛᴀᴛᴜꜱ\n⚄ .ᴍᴇɴᴜ\n⚄ .ʜᴇʟᴘ\n⚄ .?\n\n\n*Gᴀᴍᴇꜱ*\n⚄ .ᴄᴀᴋʟᴏɴᴛᴏɴɢ\n⚄ .ғᴀᴍɪʟʏ100\n⚄ .ᴍᴀᴛʜ *ᴍᴏᴅᴇ*\n⚄ .ꜱɪᴀᴘᴀᴋᴀʜᴀᴋᴜ\n⚄ .ꜱɪᴘᴀʟɪɴɢ *ᴛᴇᴋꜱ*\n⚄ .ᴛᴇʙᴀᴋɢᴀᴍʙᴀʀ\n⚄ .ᴛᴏᴅ\n⚄ .ᴛᴇʙᴀᴋᴋᴀᴛᴀ\n⚄ .ᴛɪᴄᴛᴀᴄᴛᴏᴇ [ᴄᴜꜱᴛᴏᴍ ʀᴏᴏᴍ ɴᴀᴍᴇ]\n⚄ .ᴛᴛᴛ [ᴄᴜꜱᴛᴏᴍ ʀᴏᴏᴍ ɴᴀᴍᴇ]\n⚄ Bᴏᴛ *ᴛᴇᴋꜱ*\n\n\n*RPG Gᴀᴍᴇꜱ*\n⚄ .ᴀᴅᴠᴇɴᴛᴜʀᴇ\n⚄ .ᴘᴇᴛᴜᴀʟᴀɴɢ\n⚄ .ʙᴇʀᴘᴇᴛᴜᴀʟᴀɴɢ\n⚄ .ᴍᴜʟᴜɴɢ\n⚄ .ʙᴇʀᴅᴀɢᴀɴɢ *@ᴛᴀɢ*\n⚄ .ʙᴇʀᴋᴇʙᴏɴ\n⚄ .ᴊᴜᴅɪ *ᴊᴜᴍʟᴀʜ*\n⚄ .ᴍᴀꜱᴀᴋ <ᴍᴀꜱᴀᴋᴀɴ> <ᴀʀɢꜱ>\n⚄ .ᴄᴏᴏᴋ <ᴍᴀꜱᴀᴋᴀɴ> <ᴀʀɢꜱ>\n⚄ .ᴄʀᴀғᴛ\n⚄ .ᴇᴀᴛ\n⚄ .ᴍᴀᴋᴀɴ\n⚄ .ғᴇᴇᴅ [ᴘᴇᴛ ᴛʏᴘᴇ]\n⚄ .ʜᴇᴀʟ\n⚄ .ɪɴᴠᴇɴᴛᴏʀʏ\n⚄ .ɪɴᴠ\n⚄ .ᴍᴏɴᴛʜʟʏ\n⚄ .ᴍɪɴɪɴɢ\n⚄ .ɴᴀᴍʙᴀɴɢ\n⚄ .ɴᴇʙᴀɴɢ\n⚄ .ᴏᴊᴇᴋ\n⚄ .ᴏᴘᴇɴ *ᴄʀᴀᴛᴇ ᴄᴏᴜɴᴛ*\n⚄ .ɢᴀᴄʜᴀ *ᴄʀᴀᴛᴇ ᴄᴏᴜɴᴛ*\n⚄ .ʀᴇᴘᴀɪʀ\n⚄ .ᴜᴘɢʀᴀᴅᴇ\n⚄ .ʙᴜʏ *ɪᴛᴇᴍ ᴄᴏᴜɴᴛ*\n⚄ .ꜱᴇʟʟ *ɪᴛᴇᴍ ᴄᴏᴜɴᴛ*\n⚄ .ᴛᴀxʏ\n⚄ .ᴛʀᴀɴꜱғᴇʀ *ᴛʏᴘᴇ ᴊᴜᴍʟᴀʜ @ᴛᴀɢ*\n⚄ .ᴛғ *ᴛʏᴘᴇ ᴊᴜᴍʟᴀʜ @ᴛᴀɢ*\n⚄ .ᴛᴜᴛᴏʀɪᴀʟ\n⚄ .ᴡᴇᴇᴋʟʏ\n\n\n*Exᴘ & Lɪᴍɪᴛ*\n⚄ .ᴄᴇᴋꜱɴ\n⚄ .ᴅᴀғᴛᴀʀ *ɴᴀᴍᴀ.ᴜᴍᴜʀ*\n⚄ .ʀᴇɢɪꜱᴛᴇʀ *ɴᴀᴍᴀ.ᴜᴍᴜʀ*\n⚄ .ᴍʏ\n⚄ .ᴜɴʀᴇɢ *SN|SERIAL NUMBER*\n⚄ .ᴜɴʀᴇɢɪꜱᴛᴇʀ *SN|SERIAL NUMBER*\n⚄ .ᴅᴀɪʟʏ\n⚄ .ᴄʟᴀɪᴍ\n⚄ .ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ *ᴊᴜᴍʟᴀʜ ᴜꜱᴇʀ*\n⚄ .ʟʙ *ᴊᴜᴍʟᴀʜ ᴜꜱᴇʀ*\n\n\n*Sᴛɪᴄᴋᴇʀ*\n⚄ .ᴀᴛᴛᴘ *ᴛᴇᴋꜱ*\n⚄ .ɢᴇᴛᴇxɪғ\n⚄ .ꜱᴛɪᴋᴇʀ (ᴄᴀᴘᴛɪᴏɴ|ʀᴇᴘʟʏ ᴍᴇᴅɪᴀ)\n⚄ .ꜱᴛɪᴋᴇʀ *ᴜʀʟ*\n⚄ .ꜱᴛɪᴋᴇʀɢɪғ (ᴄᴀᴘᴛɪᴏɴ|ʀᴇᴘʟʏ ᴍᴇᴅɪᴀ)\n⚄ .ꜱᴛɪᴋᴇʀɢɪғ *ᴜʀʟ*\n⚄ .ᴛᴏɪᴍɢ (ʀᴇᴘʟʏ)\n⚄ .ᴛᴏɪᴍɢ2 (ʀᴇᴘʟʏ)\n⚄ .ᴛᴏᴠɪᴅᴇᴏ\n⚄ .ᴛᴛᴘ *ᴛᴇᴋꜱ*\n⚄ .ᴡᴍ *ᴘᴀᴄᴋɴᴀᴍᴇ|ᴀᴜᴛʜᴏʀ*\n\n\n*Kᴇʀᴀɴɢ Aᴊᴀɪʙ*\n⚄ ᴀᴘᴀᴋᴀʜ <ᴛᴇᴋꜱ>?\n⚄ .ɢᴀʏᴄᴇᴋ\n⚄ .ᴘɪɴᴛᴀʀᴄᴇᴋ\n⚄ .ᴄᴀɴᴛɪᴋᴄᴇᴋ\n⚄ .ɢᴀɴᴛᴇɴɢᴄᴇᴋ\n⚄ .ɢᴀʙᴜᴛᴄᴇᴋ\n⚄ .ɢɪʟᴀᴄᴇᴋ\n⚄ .ʟᴇꜱʙɪᴄᴇᴋ\n⚄ .ꜱᴛʀᴇꜱꜱᴄᴇᴋ\n⚄ .ʙᴜᴄɪɴᴄᴇᴋ\n⚄ .ᴊᴏɴᴇꜱᴄᴇᴋ\n⚄ .ꜱᴀᴅʙᴏʏᴄᴇᴋ\n⚄ ᴋᴀᴘᴀɴ <ᴛᴇxᴛ>?\n⚄ ᴋᴀᴘᴀɴᴋᴀʜ <ᴛᴇxᴛ>?\n⚄ ᴡʜᴏᴡʜᴏ <ᴛᴇxᴛ>?\n\n\n*Pʀɪᴍʙᴏɴ Jᴀᴡᴀ*\n⚄ .ᴀʀᴛɪᴍɪᴍᴘɪ [ᴛᴇᴋꜱ]  🄿\n⚄ .ᴀʀᴛɪɴᴀᴍᴀ [ɴᴀᴍᴀ]\n⚄ .ᴋᴇᴄᴏᴄᴏᴋᴀɴᴘᴀꜱᴀɴɢᴀɴ *ɴᴀᴍᴀᴍᴜ&ɴᴀᴍᴀᴘᴀꜱᴀɴɢᴀɴᴍᴜ*\n\n\n*Aᴅᴍɪɴ*\n⚄ .ᴀɴᴛɪʟɪɴᴋ [ᴏɴ/ᴏғғ]\n⚄ .ғɪʟᴛᴇʀ [ᴏɴ/ᴏғғ]\n\n\n*Gʀᴏᴜᴘ*\n⚄ .ᴇɴᴀʙʟᴇ *ᴏᴘᴛɪᴏɴ*\n⚄ .ᴅɪꜱᴀʙʟᴇ *ᴏᴘᴛɪᴏɴ*\n⚄ .ᴀɴᴛɪʟɪɴᴋ [ᴏɴ/ᴏғғ]\n⚄ .ғɪʟᴛᴇʀ [ᴏɴ/ᴏғғ]\n⚄ .ɪɴғᴏɢʀᴜᴘ\n⚄ .ʟɪɴᴋɢʀᴏᴜᴘ\n⚄ .ᴘᴇɴɢᴜᴍᴜᴍᴀɴ [ᴛᴇᴋꜱ]\n⚄ .ᴀɴɴᴏᴜɴᴄᴇ [ᴛᴇᴋꜱ]\n⚄ .ʜɪᴅᴇᴛᴀɢ [ᴛᴇᴋꜱ]\n⚄ .ʀᴇᴠᴏᴋᴇ\n⚄ .ɢʀᴏᴜᴘ *ᴏᴘᴇɴ / ᴄʟᴏꜱᴇ*\n⚄ .ᴛᴀɢᴀʟʟ\n⚄ .ʙᴀɴ\n\n\n*Pʀᴇᴍɪᴜᴍ*\n⚄ .ᴊᴏɪɴ *ᴄʜᴀᴛ.ᴡʜᴀᴛꜱᴀᴘᴘ.ᴄᴏᴍ*\n⚄ .ᴀᴅᴅꜱᴇᴡᴀ *@ᴜꜱᴇʀ|ᴀᴍᴏᴜɴᴛ*\n⚄ .ᴀᴅᴅᴘʀᴇᴍ *@ᴜꜱᴇʀ|ᴇxᴘɪʀᴇᴅ*\n⚄ .ᴄʜᴇᴄᴋᴘʀᴇᴍ\n⚄ .ᴅᴇʟᴘʀᴇᴍ *@ᴜꜱᴇʀ*\n⚄ .ᴘʀᴇᴍʟɪꜱᴛ *ᴀɴɢᴋᴀ*\n\n\n*Tᴇxᴛᴘʀᴏ*\n⚄ .ʙʟᴏᴏᴅ [ᴛᴇxᴛ]\n⚄ .ᴍᴀʀʙʟᴇ [ᴛᴇxᴛ]\n⚄ .ʙᴏᴋᴇʜ [ᴛᴇxᴛ]\n⚄ .ʙʀᴇᴀᴋᴡᴀʟʟ [ᴛᴇxᴛ]\n⚄ .ᴄᴀʀʙᴏɴ [ᴛᴇxᴛ]\n⚄ .ᴅᴇʟᴜxᴇ [ᴛᴇxᴛ]\n⚄ .ᴅᴜᴀʟ [ᴛᴇxᴛ]\n⚄ .ɢʟɪᴛᴄʜ [ᴛᴇᴋꜱ]|[ᴛᴇxᴛ2]\n⚄ .ɢʟɪᴛᴛᴇʀ [ᴛᴇxᴛ]\n⚄ .ɢʟᴏꜱꜱʏ [ᴛᴇxᴛ]\n⚄ .ɢʟᴜᴇ [ᴛᴇxᴛ]\n⚄ .ɢʀᴀғɪᴛʏ [ᴛᴇxᴛ]\n⚄ .ɢʀᴀғɪᴛʏ3 [ᴛᴇxᴛ]\n⚄ .ᴊᴇᴡᴇʀʟʏ [ᴛᴇxᴛ]\n⚄ .ᴊᴜꜱ [ᴛᴇxᴛ]\n⚄ .ᴍᴀɢᴍᴀ [ᴛᴇxᴛ]\n⚄ .ᴍᴇᴛᴀʟ [ᴛᴇxᴛ]\n⚄ .ɴᴇᴏɴʟɪɢʜᴛ [ᴛᴇxᴛ]\n⚄ .ɴᴇᴡʏᴇᴀʀ [ᴛᴇxᴛ]\n⚄ .ᴘᴀʙʀɪᴋ [ᴛᴇxᴛ]\n⚄ .ᴘᴏʀɴʜᴜʙ [ᴛᴇxᴛ|ᴛᴇxᴛ2]\n⚄ .ʀᴀᴄᴜɴ [ᴛᴇxᴛ]\n⚄ .ꜱᴛᴇᴇʟ [ᴛᴇxᴛ]\n⚄ .ꜱᴛᴏɴᴇ [ᴛᴇxᴛ]\n⚄ .ᴋᴀʏᴜ [ᴛᴇxᴛ]\n\n\n*Eᴘʜᴏᴛᴏ*\n\n\n*Pʜᴏᴛᴏᴏxʏ*\n⚄ .ғɪʀᴇ\n⚄ .ғʀᴀᴍᴇ\n⚄ .ᴄᴀᴍғʀᴀᴍᴇ\n⚄ .ʜᴀʟғᴛᴏɴᴇ\n⚄ .ᴘɪɴᴇ\n⚄ .ᴘᴜᴢᴢʟᴇ\n⚄ .ʀᴀɪɴ\n⚄ .ɢᴡᴘ\n⚄ .ꜱᴋᴇᴛᴄʜ\n⚄ .ᴘғʙ\n⚄ .ɴʙᴘ\n⚄ .ɢᴘғ\n⚄ .ʙɢᴘ\n⚄ .ʀᴅᴇ\n⚄ .ᴘɪᴘ\n⚄ .ᴛᴘᴏ\n⚄ .ʙʀɪʟɪᴀɴᴛ\n⚄ .ʟʜᴄ\n⚄ .ʟᴠᴘ\n⚄ .ᴄᴏʙ\n⚄ .ʟʜʙ\n⚄ .ꜱʙᴘ\n⚄ .ғʟғ\n⚄ .ᴘᴛᴇ\n⚄ .ɴᴏᴛᴇʙᴏᴏᴋ\n⚄ .ᴛᴘᴅ\n⚄ .ʙᴀʟʟᴏɴ\n⚄ .ʙᴍᴇ\n⚄ .ꜱʜᴀᴛᴛᴇʀᴇᴅ\n⚄ .ᴄʀʏꜱᴛᴀʟ\n⚄ .ᴄᴘʜ\n⚄ .ʟɪɴᴇꜱ\n⚄ .ᴇxᴘᴏꜱᴜʀᴇ\n⚄ .ʟᴇᴀᴠᴇꜱ\n⚄ .ʜᴀʟғᴛᴏɴᴇ2\n⚄ .ʟᴇɴꜱ\n⚄ .ɴɪɢʜᴛᴄɪᴛʏ\n⚄ .ғᴏʀᴇꜱᴛ\n⚄ .ᴘᴀɪɴᴛɪɴɢ\n⚄ .ᴀʀᴛᴍᴀᴛʜ\n⚄ .ᴛᴏɪʟᴇᴛ\n⚄ .ᴀɴᴀɢʟʏᴘʜ\n⚄ .ᴘɪɢ\n⚄ .ᴜɴᴅᴇʀᴡᴀᴛᴇʀ\n⚄ .ʜᴘᴘ\n⚄ .ғᴅᴇ\n⚄ .ғʀᴇᴇᴢʏ\n⚄ .ᴠᴀʟᴇɴᴛɪɴᴇ\n⚄ .3ᴅʟɪɴᴇꜱ\n⚄ .ᴡɪɴᴛᴇʀ\n⚄ .ꜱᴘᴀʀᴋʟɪɴɢ\n⚄ .ɢʟɪᴛᴄʜ\n⚄ .ᴘɢᴘ\n⚄ .ɢᴛᴀ\n⚄ .ᴡᴀɴᴛᴇᴅ\n\n\n*Pʜᴏᴛᴏғᴜɴɪᴀ*\n\n\n*Iɴᴛᴇʀɴᴇᴛ*\n⚄ .ᴘɪɴᴛᴇʀᴇꜱᴛ <ᴋᴇʏᴡᴏʀᴅ>\n⚄ .ᴀɴɪᴍᴀʟ <ʜᴇᴡᴀɴ>\n⚄ .ʙʀᴀɪɴʟʏ [ꜱᴏᴀʟ] 🄻\n⚄ .ᴄᴏᴠɪᴅ <ɴᴇɢᴀʀᴀ>\n⚄ .ᴄᴜᴀᴄᴀ\n⚄ .ɢᴏᴏɢʟᴇ <ᴘᴇɴᴄᴀʀɪᴀɴ> 🄻\n⚄ .ɢᴏᴏɢʟᴇғ <ᴘᴇɴᴄᴀʀɪᴀɴ> 🄻\n⚄ .ᴋʙʙɪ <ᴛᴇᴋꜱ>\n⚄ .ʟɪʀɪᴋ <Aᴘᴀ>\n⚄ .ᴡᴀɪғᴜ\n⚄ .ʀᴡᴀɪғᴜ\n⚄ .ꜱꜱ *ᴜʀʟ*\n⚄ .ꜱꜱғ *ᴜʀʟ*\n⚄ .ᴡɪᴋɪᴘᴇᴅɪᴀ <ᴀᴘᴀ>\n\n\n*Aɴᴏɴʏᴍᴏᴜꜱ Cʜᴀᴛ*\n⚄ .ꜱᴛᴀʀᴛ\n⚄ .ʟᴇᴀᴠᴇ\n⚄ .ɴᴇxᴛ\n\n\n*Dᴏᴡɴʟᴏᴀᴅᴇʀ*\n⚄ .ᴅᴏᴡɴʟᴏᴀᴅ *ᴜʀʟ* ᴏʀ *ϙᴜᴇʀʏ* 🄻\n⚄ .ᴘʟᴀʏ *ϙᴜᴇʀʏ* 🄻\n⚄ .ʏᴛᴘʟᴀʏ *ϙᴜᴇʀʏ* 🄻\n⚄ .ʏᴛꜱᴇᴀʀᴄʜ *ϙᴜᴇʀʏ* 🄻\n⚄ .ᴛɪᴋᴛᴏᴋ <ᴜʀʟ> 🄻\n⚄ .ᴡᴀʟʟᴘᴀᴘᴇʀ <ϙᴜᴇʀʏ>\n⚄ .ᴡᴀʟʟᴘᴀᴘᴇʀ2 <ϙᴜᴇʀʏ>\n⚄ .ᴘʟᴀʏ2 <ᴘᴇɴᴄᴀʀɪᴀɴ>\n\n\n*Tᴏᴏʟꜱ*\n⚄ .ᴘɪɴɢ\n⚄ .ꜱᴘᴇᴇᴅ\n⚄ .ᴅᴇʟ\n⚄ .ᴅᴇʟᴇᴛᴇ\n⚄ .ᴄᴀʟᴄ <ᴇxᴘʀᴇꜱꜱɪᴏɴ>\n⚄ .ᴋᴀᴛᴀʙɪᴊᴀᴋ <ᴏᴘꜱɪ>\n⚄ .ɴɢʟ [ʟɪɴᴋ|ᴍᴇꜱꜱᴀɢᴇ]\n⚄ .ɴɢʟ [ᴜꜱᴇʀɴᴀᴍᴇ|ᴍᴇꜱꜱᴀɢᴇ]\n⚄ .ϙʀ <ᴛᴇᴋꜱ>\n⚄ .ϙʀᴄᴏᴅᴇ <ᴛᴇᴋꜱ>\n⚄ .ʀᴇᴀᴄᴛ *ʀᴇᴘʟʏ ᴇᴍᴏ*\n⚄ .ʀᴇᴀᴅᴍᴏʀᴇ *ᴛᴇᴋꜱ|ᴛᴇᴋꜱ*\n⚄ .ꜱᴘᴏɪʟᴇʀ *ᴛᴇᴋꜱ|ᴛᴇᴋꜱ*\n⚄ .ʀᴇᴀᴅᴠɪᴇᴡᴏɴᴄᴇ\n⚄ .ᴛʀᴜᴛʜ\n⚄ .ᴅᴀʀᴇ\n⚄ .ᴛᴛꜱ *ʟᴀɴɢ ᴛᴇᴋꜱ*\n⚄ .ᴄᴀʟᴄ <ᴇxᴘʀᴇꜱꜱɪᴏɴ>\n⚄ .ɢɪᴛʜᴜʙꜱᴇᴀʀᴄʜ <ꜱᴇᴀʀᴄʜ>\n⚄ .ɴᴘᴍꜱᴇᴀʀᴄʜ\n\n\n*Wᴀᴛᴛᴘᴀᴅᴢ*\n\n\n*Aɴɪᴍᴇ*\n⚄ .ᴀɴɪᴍᴇ <ᴊᴜᴅᴜʟ> 🄻\n⚄ .ʟᴏʟɪ\n⚄ .ᴡᴀɪғᴜ 🄻\n\n\n*Aᴜᴅɪᴏ*\n⚄ .ʙᴀꜱꜱ [ᴠɴ] 🄻\n⚄ .ʙʟᴏᴡɴ [ᴠɴ] 🄻\n⚄ .ᴅᴇᴇᴘ [ᴠɴ] 🄻\n⚄ .ᴇᴀʀʀᴀᴘᴇ [ᴠɴ] 🄻\n⚄ .ғᴀꜱᴛ [ᴠɴ] 🄻\n⚄ .ғᴀᴛ [ᴠɴ] 🄻\n⚄ .ɴɪɢʜᴛᴄᴏʀᴇ [ᴠɴ] 🄻\n⚄ .ʀᴇᴠᴇʀꜱᴇ [ᴠɴ] 🄻\n⚄ .ʀᴏʙᴏᴛ [ᴠɴ] 🄻\n⚄ .ꜱʟᴏᴡ [ᴠɴ] 🄻\n⚄ .ꜱᴍᴏᴏᴛʜ [ᴠɴ] 🄻\n⚄ .ᴛᴜᴘᴀɪ [ᴠɴ] 🄻\n⚄ .ᴠɪʙʀᴀ [ᴠɴ] 🄻\n⚄ .ᴀᴜᴅɪᴏ8ᴅ [ᴠɴ] 🄻\n\n\n*Fᴜɴ*\n⚄ .ᴊᴏᴅᴏʜɪɴ\n⚄ .ᴊᴏᴅᴏʜᴋᴜ\n⚄ Bᴏᴛ *ᴛᴇᴋꜱ*\n\n\n*Dᴀᴛᴀʙᴀꜱᴇ*\n\n\n*Vᴏᴛɪɴɢ*\n⚄ .ᴄᴇᴋᴠᴏᴛᴇ\n⚄ .ʜᴀᴘᴜꜱᴠᴏᴛᴇ\n⚄ .ᴍᴜʟᴀɪᴠᴏᴛᴇ [ᴀʟᴀꜱᴀɴ]\n⚄ .ᴜᴘᴠᴏᴛᴇ\n⚄ .ᴅᴇᴠᴏᴛᴇ\n\n\n*Aʙꜱᴇɴ*\n⚄ .ᴀʙꜱᴇɴ\n⚄ .ᴄᴇᴋᴀʙꜱᴇɴ\n⚄ .ʜᴀᴘᴜꜱᴀʙꜱᴇɴ\n⚄ .ᴍᴜʟᴀɪᴀʙꜱᴇɴ [ᴛᴇᴋꜱ]\n\n\n*Oᴡɴᴇʀ*\n⚄ .ʙʀᴏᴀᴅᴄᴀꜱᴛ <ᴛᴇᴋꜱ>\n⚄ .ʙᴄ <ᴛᴇᴋꜱ>\n⚄ .ʙʀᴏᴀᴅᴄᴀꜱᴛᴄʜᴀᴛꜱ <ᴛᴇᴋꜱ>\n⚄ .ʙᴄᴄʜᴀᴛꜱ <ᴛᴇᴋꜱ>\n⚄ .ʙʀᴏᴀᴅᴄᴀꜱᴛɢʀᴏᴜᴘ <ᴛᴇᴋꜱ>\n⚄ .ʙᴄɢᴄ <ᴛᴇᴋꜱ>\n⚄ .ᴇɴᴀʙʟᴇ *ᴏᴘᴛɪᴏɴ*\n⚄ .ᴅɪꜱᴀʙʟᴇ *ᴏᴘᴛɪᴏɴ*\n⚄ .ᴏᴀᴅᴅ @ᴜꜱᴇʀ\n⚄ .ᴏ+ @ᴜꜱᴇʀ\n⚄ .ᴀᴅᴅꜱᴇᴡᴀ *@ᴜꜱᴇʀ|ᴀᴍᴏᴜɴᴛ*\n⚄ .ʙᴀɴ\n⚄ .ᴇxɪᴛ\n⚄ .ᴏᴋɪᴄᴋ @ᴜꜱᴇʀ\n⚄ .ᴏ- @ᴜꜱᴇʀ\n⚄ .ʀᴇꜱᴇᴛᴋᴀʙᴇʜ\n⚄ .ᴛᴀɢ [ᴄᴏᴍᴍᴀɴᴅ]|[ɴᴏᴍᴇʀ]|[ᴛɪᴍᴇ]\n⚄ .ᴜɴʙᴀɴᴄʜᴀᴛ\n⚄ .ᴀᴅᴅᴘʀᴇᴍ *@ᴜꜱᴇʀ|ᴇxᴘɪʀᴇᴅ*\n⚄ .ᴄʜᴇᴄᴋᴘʀᴇᴍ\n⚄ .ᴅᴇʟᴘʀᴇᴍ *@ᴜꜱᴇʀ*\n\n\n*Uꜱᴇʀ*\n⚄ .ʟᴇᴠᴇʟᴜᴘ\n⚄ .ᴘʀᴏғɪʟᴇ *@ᴜꜱᴇʀ*\n\n\n*Aᴅᴠᴀɴᴄᴇᴅ*\n⚄ >\n⚄ =>\n\n\n*Iɴғᴏ*\n⚄ .ᴏᴡɴᴇʀ\n⚄ .ᴄʀᴇᴀᴛᴏʀ\n⚄ .ᴅᴏɴᴀꜱɪ\n⚄ .ʙᴀɴɴᴇᴅʟɪꜱᴛ\n⚄ .ʙʟᴏᴄᴋʟɪꜱᴛ\n⚄ .ʟɪꜱᴛɢʀᴏᴜᴘ\n⚄ .ʀᴜɴᴛɪᴍᴇ\n⚄ .ꜱᴛᴀᴛᴜꜱ\n⚄ .ᴘɪɴɢ\n⚄ .ꜱᴘᴇᴇᴅ\n\n\n*Nᴏ Cᴀᴛᴇɢᴏʀʏ*",
+                  "hydratedFooterText": "whatsapp bot",
+                  "hydratedButtons": [
+                    {
+                      "urlButton": {
+                        "displayText": "Github",
+                        "url": "https://github.com/wahyudioputra"
+                      },
+                      "index": 1
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Donate",
+                        "id": "/donasi"
+                      },
+                      "index": 2
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Speed",
+                        "id": "/ping"
+                      },
+                      "index": 3
+                    },
+                    {
+                      "quickReplyButton": {
+                        "displayText": "Owner",
+                        "id": "/owner"
+                      },
+                      "index": 4
+                    }
+                  ]
+                }
+              },
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095056",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B2DC383BA39723C3C63BDE3D02B25774"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/ping"
+          }
+        },
+        "messageTimestamp": "1663095066",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "BF0D7267EBD8AC6818DB4DB36EC5D6EB"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/donasi"
+          }
+        },
+        "messageTimestamp": "1663095066",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE50F9D92A5DD01"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Testing speed..._",
+            "contextInfo": {
+              "stanzaId": "B2DC383BA39723C3C63BDE3D02B25774",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095066",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": false,
+          "id": "1562CC029AEED16815FA4A7DE8A4693E"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/owner"
+          }
+        },
+        "messageTimestamp": "1663095067",
+        "status": "PENDING",
+        "pushName": "πt."
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE59A1FEB5F42EA"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Merespon dalam 593.5027600000612 millidetik\n\n💬 Status :\n- *0* Group Chats\n- *0* Groups Joined\n- *0* Groups Left\n- *1* Personal Chats\n- *1* Total Chats\n\n💻 *Server Info* :\nRAM: 2.33 GB / 3.49 GB\n\n_NodeJS Memory Usage_\n```rss         : 132.83 MB\nheapTotal   : 86.25 MB\nheapUsed    : 84.05 MB\nexternal    : 34.38 MB\narrayBuffers: 18.13 MB```",
+            "contextInfo": {
+              "stanzaId": "B2DC383BA39723C3C63BDE3D02B25774",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/ping"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095066",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5330AB7F6B69D"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "╭─「 Hubungi 」\n│ > Ingin donasi? wa.me/6283809157951\n╰────",
+            "contextInfo": {
+              "stanzaId": "BF0D7267EBD8AC6818DB4DB36EC5D6EB",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/donasi"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095067",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5826DB921FF75"
+        },
+        "message": {
+          "contactMessage": {
+            "displayName": "wahyu",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;wahyu;;;\nFN:wahyu\nTEL;type=CELL;type=VOICE;waid=6283809157951:+62 838-0915-7951\nEND:VCARD",
+            "contextInfo": {
+              "stanzaId": "1562CC029AEED16815FA4A7DE8A4693E",
+              "participant": "6283809157951@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/owner"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1663095067",
+        "status": "READ"
+      }
+    ],
+    "6283809157951-1630786583@g.us": [
+      {
+        "key": {
+          "remoteJid": "6283809157951-1630786583@g.us",
+          "fromMe": true,
+          "id": "4FAB112ADCBAF8959F0DD73B75CB8D71"
+        },
+        "messageTimestamp": "1662289612",
+        "messageStubType": "E2E_ENCRYPTED"
+      },
+      {
+        "key": {
+          "remoteJid": "6283809157951-1630786583@g.us",
+          "fromMe": true,
+          "id": "1067014678"
+        },
+        "messageTimestamp": "1662301963",
+        "messageStubType": "GROUP_PARTICIPANT_LEAVE",
+        "messageStubParameters": [
+          "6281573035313@s.whatsapp.net"
+        ]
+      }
+    ],
+    "62895368900456@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "62895368900456@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE522C08C03BA2C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1663091581",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "62895368900456@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5385F2D889547"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1663093139",
+        "status": "PENDING"
+      }
+    ],
+    "6283807208112@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6283807208112@s.whatsapp.net",
+          "fromMe": true,
+          "id": "46DB75FD2727258A7715042746E8D37C"
+        },
+        "messageTimestamp": "1662238105",
+        "messageStubType": "E2E_ENCRYPTED"
+      }
+    ]
+  }
+}
